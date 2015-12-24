@@ -7,8 +7,6 @@ There are a couple of cool things that occur as a result of GitHub/Wordpress int
 2. Since GitHub stores my content, if my webhosting provider goes out of business or they experience data loss, I will be unaffected and have access to all my blog articles. All I need to do is set up this configuration on a different provider and re-import my articles.  
 3. I am being a good Open Source Citizen. All my work including my blog posts are open, version controlled, not published until the Pull Request posting the article is approved.  
 
-![Dogs](https://github.com/dvonthenen/blog/blob/master/images/sydneyandizzy.jpg)
-
 ### How did I go about doing this?
 
 You need this [Wordpress-GitHub-Plugin](https://wordpress.org/plugins/wp-github-sync/installation/) to be installed on your Wordpress server. You obviously need to have GitHub account with a repo that will contain your blog posts along with an OAuth token to receive GitHub push events.
