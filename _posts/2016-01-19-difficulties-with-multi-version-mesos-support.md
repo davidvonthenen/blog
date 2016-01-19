@@ -10,6 +10,8 @@ layout: post
 permalink: >
   http://dvonthenen.com/2016/01/19/difficulties-with-multi-version-mesos-support/
 published: true
+shorturl:
+  - http://goo.gl/q5u8ul
 ---
 I have been working with [Apache Mesos][1] for some time now and after a recent meeting with the [Mesosphere][2] team (the company largely driving the roadmap and development effort), I have come to learn that some Mesos users sit on the bleeding edge of releases and others that are sensitive to things like security, change management, and stability are more inclined to be a couple or several versions behind. This practice isn't anything new, it took [EMC][3] IT a long time to adopt Windows 7... heck, Windows 10 is out now and we are still sitting at Windows 7. Not saying that is necessarily a bad thing...
 
@@ -93,7 +95,7 @@ virtual process::Future recover( const std::list& states, const hashset& orphans
 
 ...
 
-#if MESOS_VERSION_INT != 0 && MESOS_VERSION_INT < 0240 virtual process::Future<Option> prepare( const ContainerID& containerId, const ExecutorInfo& executorInfo, const std::string& directory, const Option& rootfs, const Option& user); #else virtual process::Future<Option> prepare( const ContainerID& containerId, const ExecutorInfo& executorInfo, const std::string& directory, const Option& user); #endif
+# if MESOS_VERSION_INT != 0 && MESOS_VERSION_INT < 0240 virtual process::Future<Option> prepare( const ContainerID& containerId, const ExecutorInfo& executorInfo, const std::string& directory, const Option& rootfs, const Option& user); #else virtual process::Future<Option> prepare( const ContainerID& containerId, const ExecutorInfo& executorInfo, const std::string& directory, const Option& user); #endif
 
 ... \``\`
 
