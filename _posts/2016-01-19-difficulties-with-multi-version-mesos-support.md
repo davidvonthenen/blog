@@ -33,7 +33,7 @@ virtual process::Future<Option> prepare( const ContainerID& containerId, const E
 
 ... } \``\`
 
-In [0\.24.X][8]: \``\` class DockerVolumeDriverIsolator: public mesos::slave::Isolator { ...
+In [0\.24.X][8]: ``\` class DockerVolumeDriverIsolator: public mesos::slave::Isolator { ...
 
 virtual process::Future recover( const std::list& states, const hashset& orphans);
 
@@ -41,7 +41,7 @@ virtual process::Future recover( const std::list& states, const hashset& orphans
 
 virtual process::Future<Option> prepare( const ContainerID& containerId, const ExecutorInfo& executorInfo, const std::string& directory, const Option& user);
 
-... } \``\`
+... } ``\`
 
 This is not good. This is basically Mesos' version of Microsoft's DLL Hell. As an experienced C++ developer, defining a C++ interface that is going to ensure backwards compatibility is very difficult. In previous projects I have worked on, the interfaces not only needed to be backwards compatible but also cross-platform (yes, Windows support) all from a single code base. That adds further complexity. These days some of these difficulties can easily be side stepped by standing up a REST endpoint. Even the worst REST API by enlarge "get the job done" even if the API is horribly designed. For example, some might argue if the API does not follow CRUD, HATEOAS, or etc they are bad designs, but I digress.
 
@@ -53,9 +53,9 @@ So the current solution to support multiple versions of the Mesos Isolator inter
 
 Since we are using ifdefs, that unfortunately means our solution is a compile time solution and we therefore need to build every version that we plan on supporting. We do that in our Makefile as see below.
 
-In the [Makefile][10]: \``\` Line 8: ISO_VERSIONS := 0.23.1 0.24.1 0.25.0 0.26.0
+In the [Makefile][10]: ``\` Line 8: ISO_VERSIONS := 0.23.1 0.24.1 0.25.0 0.26.0
 
-Line 818: $(foreach V,$(ISO_VERSIONS),$(eval $(call ISOLATOR_BUILD_RULES,$(V)))) \``\`
+Line 818: $(foreach V,$(ISO_VERSIONS),$(eval $(call ISOLATOR_BUILD_RULES,$(V)))) ``\`
 
 Then we take that version and create an integer representation of the version by stripping out the periods from the version we are compiling. Represented by the `MESOS_VERSION_INT` preprocessor directive below. An example of that would be version 0.24.1 becomes 0241.
 
@@ -69,7 +69,7 @@ $$(ISO_MAKEFILE_$1): $$(ISO_CONFIGURE_$1) $$(ISO_DEPS_$1)`
 
 Then we compile the project using the `MESOS_VERSION_INT` and make alterations to the code to handle the ifdefs.
 
-In the [docker_volume_driver_isolator.hpp][11]: \``\`
+In the [docker_volume_driver_isolator.hpp][11]: ``\`
 
 # if MESOS_VERSION_INT != 0 && MESOS_VERSION_INT < 0240
 
@@ -97,7 +97,7 @@ virtual process::Future recover( const std::list& states, const hashset& orphans
 
 # if MESOS_VERSION_INT != 0 && MESOS_VERSION_INT < 0240 virtual process::Future<Option> prepare( const ContainerID& containerId, const ExecutorInfo& executorInfo, const std::string& directory, const Option& rootfs, const Option& user); #else virtual process::Future<Option> prepare( const ContainerID& containerId, const ExecutorInfo& executorInfo, const std::string& directory, const Option& user); #endif
 
-... \``\`
+... ``\`
 
 So that is it. Again, not the most elegant solution but unfortunately addressing the backwards compatibility is going to be very difficult to resolve going forward as it would require retrofitting older versions of Mesos. That could get pretty ugly to change architecture in the form of patches or even a minor release. Odds are this is not going to go away any time soon. I hope this helps other developers out there looking to create Mesos Isolators (and Mesos Frameworks because it looks like the Framework interfaces may have the same problem).
 
