@@ -17,7 +17,7 @@ I have been working with [Apache Mesos][1] for some time now and after a recent 
 
 ![Why you wait for the first Service Pack][4]
 
-So we have to accept the fact that we need to support multiple versions and take that into consideration when building components for Mesos. This takes us to the most recent release (0.4.0) of [mesos-module-dvdi][5] which supports multiple versions spanning from 0.23.1 to the most recent release of mesos, 0.26.0. A side note, for those not familiar with mesos-modue-dvdi its a Mesos isolator module that can create and mount external storage volumes, such as ScaleIO, Amazon EBS, or etc, and provide persistent storage for Applications created on Mesos. If you are interested, you can find more information on its [GitHub][6] page.
+So we have to accept the fact that we need to support multiple versions and take that into consideration when building components for Mesos. This takes us to the most recent release (0.4.0) of [mesos-module-dvdi][5] which supports multiple versions spanning from 0.23.1 to the most recent release of mesos, 0.26.0. A side note, for those not familiar with mesos-module-dvdi its a Mesos isolator module that can create and mount external storage volumes, such as ScaleIO, Amazon EBS, or etc, and provide persistent storage for Applications created on Mesos. If you are interested, you can find more information on its [GitHub][6] page.
 
 ### Where’s the Beef?
 
@@ -50,7 +50,7 @@ const ExecutorInfo& executorInfo,
 const std::string& directory,
 const Option<std::string>& user);`
 
-This is not good. This is basically Mesos’ version of Microsoft’s DLL Hell. As an experienced C++ developer, defining a C++ interface that is going to ensure backwards compatibility is very difficult. In previous projects I have worked on, the interfaces not only needed to be backwards compatible but also cross-platform (yes, Windows support) all from a single code base. That adds further complexity. These days some of these difficulties can easily be side stepped by standing up a REST endpoint. Even the worst REST APIs by enlarge “get the job done” even if the API is horribly designed. For example, some might argue if the API does not follow CRUD, HATEOAS, or etc they are bad designs, but I digress.
+This is not good. This is basically Mesos’ version of Microsoft’s DLL Hell. As an experienced C++ developer, defining a C++ interface that is going to ensure backwards compatibility is very difficult. In previous projects I have worked on, the interfaces not only needed to be backwards compatible but also cross-platform (yes, Windows support) all from a single code base. That adds further complexity. These days some of these difficulties can easily be side stepped by standing up a REST endpoint. Even the worst REST APIs by in large “get the job done” even if the API is horribly designed. For example, some might argue if the API does not follow CRUD, HATEOAS, or etc they are bad designs, but I digress.
 
 ![DLL Hell][9]
 
