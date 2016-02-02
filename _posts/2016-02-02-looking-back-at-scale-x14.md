@@ -8,6 +8,8 @@ layout: post
 permalink: >
   http://dvonthenen.com/2016/02/02/looking-back-at-scale-x14/
 published: true
+shorturl:
+  - http://goo.gl/AyVBFU
 ---
 For those that don't know what [SCaLE][1] is... SCaLE stands for the [Southern California Linux Expo][1] and this marked the 14th year the conference has been held which happened to be in Pasadena, CA on Jan 21-24. This was the first time I have attended SCaLE and I have to say that it was quite refreshing going to a conference where the primary purpose wasn't trying to sell you product but rather ideas and open source projects of interest. A lot of this is due to a very community driven focus which encompassed everything from session selection, a large volunteer staff, and etc.
 
