@@ -68,11 +68,17 @@ public long getElasticNodeId() {
 
 We get the current running task list, find out which ones have the environment variable set, build a bit mask, then walk the bitmask starting from the least significant bit until we have a free ID. Fairly simple. As someone who doesn't run Elastic Search in production, it was pointed out to me this would only support 32 nodes so there is a future commit that will be done to make this generic for an unlimited number of nodes.
 
-The to enable this, all you need to do is have your Docker Volume Driver installed, like [REX-Ray](https://github.com/emccode/rexray) for example, pre-create the volumes you plan on using based on the parameter `--frameworkName` (default: elasticsearch) appended with the node id and config/data (example: elasticsearch1config and elasticsearch1data), and then start the ES Framework with the command line parameter `--externalVolumeDriver=rexray` or what ever volume driver you happen to be using. You are all set! Pretty easy huh? Interested in seeing more? You can find a demo on YouTube located below.
+### Let's Do This Thing
+
+The enable this, all you need to do is have your Docker Volume Driver installed, like [REX-Ray](https://github.com/emccode/rexray) for example, pre-create the volumes you plan on using based on the parameter `--frameworkName` (default: elasticsearch) appended with the node id and config/data (example: elasticsearch1config and elasticsearch1data), and then start the ES Framework with the command line parameter `--externalVolumeDriver=rexray` or what ever volume driver you happen to be using. You are all set! Pretty easy huh? Interested in seeing more? You can find a demo on YouTube located below.
 
  <iframe width="420" height="315" src="https://www.youtube.com/embed/0dhlcft9aWc" frameborder="0" allowfullscreen></iframe>
 
 BONUS! The Elastic Search Framework has a facility (although only recommended for very advanced users) for using the Elastic Search JAR directly on the Mesos slave/agent node and in that case, code was also added in this Pull Request to use the [mesos-module-dvdi](https://github.com/emccode/mesos-module-dvdi), which is a Mesos Isolator, to create and mount your external volumes. You just need to install [mesos-module-dvdi](https://github.com/emccode/mesos-module-dvdi) and [DVDCLI](https://github.com/emccode/dvdcli).
+
+The good news is that the [Pull Request](https://github.com/mesos/elasticsearch/issues/490) has been accepted and it is currently slated for the 8.0 release of Elastic Search Framework. The bad news is the next release looks like to be version 7.2. So you are going to have to wait a little longer before you get an official release with this External Volume support.
+
+### Frameworks.NEXT
 
 What's up next? This was a good exercise in adding on to an existing Mesos Framework and Executor and the [{code} team](http://emccode.github.io/) may potentially have a Framework of our own on the way. Stay tuned!
 
