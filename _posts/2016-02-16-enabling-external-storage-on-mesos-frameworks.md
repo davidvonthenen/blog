@@ -10,6 +10,8 @@ layout: post
 permalink: >
   http://dvonthenen.com/2016/02/16/enabling-external-storage-on-mesos-frameworks/
 published: true
+shorturl:
+  - http://goo.gl/Q8Jsuz
 ---
 There has been a huge push to take containers to the next level by twisting them to do much more. So much more in fact that many are starting to use them in ways that were never originally intended and even going against the founding principles of containers. The most noteworthy principle of containers being left on the designing room floor is without a doubt is being "stateless". It is pretty evident that this trend is only accelerating... just doing a simple search of popular traditional databases in [Docker Hub][1] yields results like [MySQL][2], [MariaDB][3], [Postgres][4], and [OracleLinux][5] in Docker Hub (Oracle suggests you might try running an Oracle instance in a Docker container. LAF!). Then there is all the NoSQL implementations like [Elastic Search][6], [Cassandra][7], [MongoDB][8], and [CouchBase][9] just to name a few. We are going to take a look to see how we can bring these workloads into the next evolution of stateful containers using the Mesos Elastic Search Framework as a proposed model.
 
