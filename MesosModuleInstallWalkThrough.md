@@ -109,7 +109,7 @@ Then we can launch the Marathon task by running the following shell command:
 curl -k -XPOST -d @basic.json -H "Content-Type: application/json" <your marathon IP or FQDN>:8080/v2/apps
 </pre>
 
-For a more complex example, lets stand up a simple web server with an external volume and scribble some data on it. Create a file called web.json with the following content inside and replace YOUR_NAME_HERE with your first name:
+For a more complex example, lets stand up a simple web server with an external volume and scribble some data on it. Create a file called web.json with the following content inside and replace YOUR_NAME_HERE with your first name (be careful and try not to remove the single quote trailing it):
 
 <pre>
 {
@@ -117,9 +117,9 @@ For a more complex example, lets stand up a simple web server with an external v
   "uris": [
     "https://github.com/dvonthenen/goprojects/raw/master/bin/statichttpserver"
   ],
-  "cmd": "echo 'Hello, YOUR_NAME_HERE' > /var/lib/rexray/volumes/webdata/readme.txt && chmod u+x statichttpserver &&  ./statichttpserver -port=$PORT -path=/var/lib/rexray/volumes/webdata",
+  "cmd": "echo 'Hello, YOUR_NAME_HERE' $(cat /var/lib/rexray/volumes/webdata/readme.txt | wc -l) >> /var/lib/rexray/volumes/webdata/readme.txt && chmod u+x statichttpserver &&  ./statichttpserver -port=$PORT -path=/var/lib/rexray/volumes/webdata",
   "mem": 16,
-  "cpus": 0.5,
+  "cpus": 0.1,
   "instances": 1,
   "constraints": [
     ["hostname", "UNIQUE"]
@@ -145,6 +145,8 @@ You can find out what slave/agent node and port the web server is running on by 
 And if you open up that hostname and port in your web browser (yes, my FQDN name isn't the same since I configured my EC2 instances without elastic IPs), you will have accessed the webserver we downloaded from my [GitHub account](https://github.com/dvonthenen/goprojects) and you should see a file readme.txt at the root. When you click that readme.txt to display the contents, you should see your name inside the text file.
 
 ![Opening up the readme.txt](https://raw.githubusercontent.com/dvonthenen/blog/master/images/webpage.png)
+
+Although the second example is a fairly meaningful real world example of using external volumes/storage, the real benefits don't become apparent until you start doing things like failing the Mesos slave/agent node that is currently running the task. We can simulate this failure, by simply stopping the Marathon task and relaunching it. The new instance of our task may start up on a different node, but the important take away is that the external volume from the first instance will be reattached to the new task thus preserving any prior data. If you open the readme.txt after the task enters the running state, you should see the previous "Hello" line with a "0" at end now followed by a "Hello" line ending in "1" that this new instance has added on. Now just imagine a database like PostgreSQL or an Elastic Search node as a Marathon task. Any failure in the Mesos slave/agent or health check will trigger the task to start up from its previous state on a new node. Say "Hello" to high availability!
 
 ### What's Next...
 
