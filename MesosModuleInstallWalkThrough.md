@@ -148,6 +148,8 @@ And if you open up that hostname and port in your web browser (yes, my FQDN name
 
 Although the second example is a fairly meaningful real world example of using external volumes/storage, the real benefits don't become apparent until you start doing things like failing the Mesos slave/agent node that is currently running the task. We can simulate this failure, by simply stopping the Marathon task and relaunching it. The new instance of our task may start up on a different node, but the important take away is that the external volume from the first instance will be reattached to the new task thus preserving any prior data. If you open the readme.txt after the task enters the running state, you should see the previous "Hello" line with a "0" at end now followed by a "Hello" line ending in "1" that this new instance has added on. Now just imagine a database like PostgreSQL or an Elastic Search node as a Marathon task. Any failure in the Mesos slave/agent or health check will trigger the task to start up from its previous state on a new node. Say "Hello" to high availability!
 
+![Persistence!](https://raw.githubusercontent.com/dvonthenen/blog/master/images/persistence.png)
+
 ### What's Next...
 
 Very cool! Hopefully this served as a good guide to adding external volume/storage support to your existing Apache Mesos cluster using ```REX-Ray```, ```DVDCLI```, and ```mesos-module-dvdi```. I have a couple of ideas on some follow up blog posts... thinking about how I do dev/test for ```mesos-module-dvdi``` with Docker containers or perhaps more about frameworks. If you have any topics you might want me to discuss, please drop me a line on twitter at [@dvonthenen](https://twitter.com/dvonthenen).
