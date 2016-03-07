@@ -77,7 +77,7 @@ echo "file:///usr/lib/dvdi-mod.json" | tee /etc/mesos-slave/modules
 service mesos-slave restart
 </pre>
 
-Success! This configuration will also allow you to run external volumes for docker workloads which is why you see docker in the first command. To learn more about using docker containerizers in Apache Mesos, please checkout this great [article](http://blog.emccode.com/2015/09/29/upcoming-docker-1-9-and-enhanced-storage-features-with-volume-options/) on the EMC {code} blog.
+Success! This configuration will also allow you to run external volumes for docker workloads which is why you see docker in the first command. To learn more about using external storage with the docker containerizer in Apache Mesos, please checkout this great [article](http://blog.emccode.com/2015/09/29/upcoming-docker-1-9-and-enhanced-storage-features-with-volume-options/) on the EMC {code} blog.
 
 ![Very Nice Great Success](https://raw.githubusercontent.com/dvonthenen/blog/master/images/greatsuccess.jpg)
 
@@ -108,6 +108,8 @@ Then we can launch the Marathon task by running the following shell command:
 <pre>
 curl -k -XPOST -d @basic.json -H "Content-Type: application/json" <your marathon IP or FQDN>:8080/v2/apps
 </pre>
+
+This simply creates two new volumes called "firstvolume" and "secondvolume" and uses the default ```REX-Ray``` mount location /var/librexray/volumes to mount these volumes.
 
 For a more complex example, lets stand up a simple web server with an external volume and scribble some data on it. Create a file called web.json with the following content inside and replace YOUR_NAME_HERE with your first name (be careful and try not to remove the single quote trailing it):
 
@@ -142,7 +144,7 @@ You can find out what slave/agent node and port the web server is running on by 
 
 ![Marathon Task](https://raw.githubusercontent.com/dvonthenen/blog/master/images/marathon.png)
 
-And if you open up that hostname and port in your web browser (yes, my FQDN name isn't the same since I configured my EC2 instances without elastic IPs), you will have accessed the webserver we downloaded from my [GitHub account](https://github.com/dvonthenen/goprojects) and you should see a file readme.txt at the root. When you click that readme.txt to display the contents, you should see your name inside the text file.
+And if you open up that hostname and port in your web browser (you may have noticed that my FQDN name isn't the same since I configured my EC2 instances without elastic IPs), you will have accessed the webserver we downloaded from my [GitHub account](https://github.com/dvonthenen/goprojects) and you should see a file readme.txt at the root. When you click that readme.txt to display the contents, you should see your name inside the text file.
 
 ![Opening up the readme.txt](https://raw.githubusercontent.com/dvonthenen/blog/master/images/webpage.png)
 
