@@ -10,6 +10,8 @@ layout: post
 permalink: >
   http://dvonthenen.com/2016/03/08/mesos-module-dvdi-installation-walkthrough/
 published: true
+shorturl:
+  - http://goo.gl/DEqQEX
 ---
 As other people in the [EMC {code}][1] team started getting involved with [Apache Mesos][2], I have been helping by fielding questions and troubleshooting installations of both Mesos and [mesos-module-dvdi][3] so that others can kick the tires and become subject matter experts. It was brought to my attention that a good clean walkthrough of adding external volume/storage support to an existing **production** Mesos cluster might be of value to others which brings us to this blog post. We will cover a couple examples of launching [Marathon][4] tasks to make use of our new found capability. Also, we will take a look at functionality that the mesos-module-dvdi brings to the table and talk about what those features mean to you.
 
@@ -42,8 +44,8 @@ Then you need you configure [REX-Ray][14] with the storage provider you plan on 
     unmount:
       ignoreUsedCount: true
 aws:
-  accessKey: 
-  secretKey: 
+  accessKey: &lt;YOUR_ACCESS_KEY&gt;
+  secretKey: &lt;YOUR_SECRET_KEY&gt;
 </pre>
 
 You can do a simple test to make sure `REX-Ray` and `DVDCLI` are functioning properly by running the following command: `rexray volume`. If you need help on configuring REX-Ray for other storage platforms, you can view the [REX-Ray configuration guide][15].
