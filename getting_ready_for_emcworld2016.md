@@ -3,7 +3,7 @@ post_title: 'Getting Ready for EMC World 2016'
 layout: post
 published: true
 ---
-We are getting closer and closer to [EMC World 2016](http://www.emcworld.com). I have to admit, its approaching crazy fast. This will be my first time attending EMC World. Seems odd saying that as I have attended many conferences in my career, but never the one my company throws. This time its different as I will be presenting two sessions in the "Code and Modern Operations" track this year. I am very excited for this opportunity to talk about things that are interesting to me and I hope that are of interest to others out there in the open source community.
+We are getting closer and closer to [EMC World 2016](http://www.emcworld.com). I have to admit, its approaching crazy fast. This will be my first time attending EMC World. Seems odd saying that as I have attended many conferences in my career, but never the one my company throws. This time its going to be a different conference going experience as I will be presenting two sessions in the "Code and Modern Operations" track this year. I am very excited for this opportunity to talk about things that are interesting to me and I hope that are of interest to others out there in the open source community.
 
 ![Apache Mesos](https://raw.githubusercontent.com/dvonthenen/blog/master/images/mesos.png)
 
