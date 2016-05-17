@@ -17,9 +17,9 @@ You can download the "Introduction To Mesos & Mesosphere" powerpoint presentatio
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/W353f2YVK9Y" frameborder="0" allowfullscreen></iframe>
 
-The source code for the MVC Web Application written in Golang can be found in my [GitHub repo](https://github.com/dvonthenen/goprojects). The two projects used are [RestServer](https://github.com/dvonthenen/goprojects/tree/master/src/restserver) and [RestClient](https://github.com/dvonthenen/goprojects/tree/master/src/restclient).
+The source code for the MVC Web Application written in Golang can be found in my [GitHub repo](https://github.com/dvonthenen/goprojects). The two projects used in demo were [RestServer](https://github.com/dvonthenen/goprojects/tree/master/src/restserver) and [RestClient](https://github.com/dvonthenen/goprojects/tree/master/src/restclient).
 
-To launch the MVC Application with external persistent storage, you first need to have [Mesos DNS](http://mesosphere.github.io/mesos-dns/) running and installed in your Mesos Cluster and then you can find the Marathon json files to launch tasks [here](https://github.com/dvonthenen/junkyard/tree/master/mesos/EMCW2016). To start up the application, perform the following:
+To launch the MVC Application with external persistent storage, you first need to have each of your Mesos Agent/Slave nodes running [Mesos DNS](http://mesosphere.github.io/mesos-dns/) and  configured for persistent external storage using this [Guide](http://dvonthenen.com/2016/03/08/mesos-module-dvdi-installation-walkthrough/). Once you have those prerequisites in your Mesos Cluster, you can find the Marathon JSON files to launch tasks [here](https://github.com/dvonthenen/junkyard/tree/master/mesos/EMCW2016). To start up the application, perform the following:
 
 <pre>
 Start PostgreSQL:
@@ -40,7 +40,7 @@ You can download the "Deep Dive With Mesos & Persistent Storage For Applications
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/UewRlc0ZWZ8" frameborder="0" allowfullscreen></iframe>
 
-To launch the [Elastic Search Framework](https://github.com/mesos/elasticsearch) with external persistent storage, you first need to have at least a 3 Agent/Slave nodes in your Mesos cluster and then you can find the Marathon json files to launch tasks [here](https://github.com/dvonthenen/junkyard/tree/master/mesos/EMCW2016). To start up the application, perform the following:
+To launch the [Elastic Search Framework](https://github.com/mesos/elasticsearch) with external persistent storage, you first need to have at least a 3 Agent/Slave nodes in your Mesos cluster and each of your Mesos Agent/Slave nodes configured for persistent external storage using this [Guide](http://dvonthenen.com/2016/03/08/mesos-module-dvdi-installation-walkthrough/). To start the ElasticSearch scheduler, you can find the Marathon JSON files to launch task [here](https://github.com/dvonthenen/junkyard/tree/master/mesos/EMCW2016). To start up the Scheduler, perform the following:
 
 <pre>
 Start ElasticSearch Scheduler:
@@ -51,4 +51,4 @@ If you want to run some of the advanced ElasticSearch functionality used in the 
 
 ### What's Next...
 
-After recharging for a bit, we have already started on our post-EMC World plans and deliverables. Hopefully this will bring a forth a bunch of interesting ideas and projects for you guys to use. To keep up to date with the things that I will be working on, please follow me on Twitter at [@dvonthenen](https://twitter.com/dvonthenen). Any if anyone has any questions about the EMC World presentations, you can always catch me on the [{code} Community Slack](https://codecommunity.slack.com/) channel.
+After recharging for a bit, we have already started on our post-EMC World plans and deliverables. Hopefully this will bring a forth a bunch of interesting ideas and projects for the community. To keep up to date with the things that I will be working on, please follow me on Twitter at [@dvonthenen](https://twitter.com/dvonthenen). If anyone has any questions about the EMC World presentations, you can always catch me on the [{code} Community Slack](https://codecommunity.slack.com/) channel.
