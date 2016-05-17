@@ -1,5 +1,5 @@
 ---
-post_title: 'EMC World 2016 Aftermath'
+post_title: 'Looking Back at EMC World 2016'
 layout: post
 published: true
 ---
