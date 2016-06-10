@@ -8,6 +8,8 @@ layout: post
 permalink: >
   http://dvonthenen.com/2016/05/17/looking-back-at-emc-world-2016/
 published: true
+shorturl:
+  - http://goo.gl/rkcR9u
 ---
 Wow! How quickly a week can go by. Like many of you, [EMC World 2016][1] was my first time in attendance and it also happen to be the first time I have been given the opportunity to be a presenter for a larger audience. I though the experience exceeded my expectations and based on some of the preliminary numbers and feedback that we have been getting on the sessions the [EMC {code}][2] team had presented, a good number of you agree the sessions content and presentations were of value to you. Thanks again for attending the sessions and providing your feedback.
 
@@ -21,6 +23,7 @@ Here is the session material for [Introduction To Mesos & Mesosphere][3] (Monday
 
 You can download the "Introduction To Mesos & Mesosphere" powerpoint presentation [HERE][5]. The video of the demonstration used at the end of the session highlighting Mesos using persistent external storage can be found on YouTube below:
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/W353f2YVK9Y" frameborder="0" allowfullscreen></iframe> 
 The source code for the MVC Web Application written in Golang can be found in my [GitHub repo][6]. The two projects used in demo were [RestServer][7] and [RestClient][8].
 
 To launch the MVC Application with external persistent storage, you first need to have each of your Mesos Agent/Slave nodes running [Mesos DNS][9] and configured for persistent external storage using this [Guide][10]. Once you have those prerequisites in your Mesos Cluster, you can find the Marathon JSON files to launch tasks [here][11]. To start up the application, perform the following:
@@ -41,6 +44,7 @@ Here is the session material for [Deep Dive With Mesos & Persistent Storage For 
 
 You can download the "Deep Dive With Mesos & Persistent Storage For Applications" powerpoint presentation [HERE][14]. The video of the demonstration used at the end of the session highlighting the Elastic Search Mesos Framework using persistent external storage can be found on YouTube below:
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/UewRlc0ZWZ8" frameborder="0" allowfullscreen></iframe> 
 To launch the [Elastic Search Framework][15] with external persistent storage, you first need to have at least a 3 Agent/Slave nodes in your Mesos cluster and each of your Mesos Agent/Slave nodes configured for persistent external storage using this [Guide][10]. To start the ElasticSearch scheduler, you can find the Marathon JSON files to launch task [here][11]. To start up the Scheduler, perform the following:
 
 <pre>Start ElasticSearch Scheduler:
