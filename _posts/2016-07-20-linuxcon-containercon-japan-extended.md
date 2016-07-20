@@ -1,6 +1,6 @@
 ---
 ID: 79
-post_title: 'LinuxCon ContainerCon Japan: Extended'
+post_title: 'LinuxCon ContainerCon Japan: Extended Edition'
 author: dvonthenen
 post_date: 2016-07-20 10:36:27
 post_excerpt: ""
