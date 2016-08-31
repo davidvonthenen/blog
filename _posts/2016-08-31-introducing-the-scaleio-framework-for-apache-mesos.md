@@ -33,6 +33,7 @@ The next (r)evolution that is made capable by this Framework is that by combinin
 
 I have put together a video demo of this ScaleIO Framework in action. You can get a permanent link to the video on my [YouTube]() channel. Without further ado, check out the video below!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DYfS99GMqwU" frameborder="0" allowfullscreen></iframe> 
 ### Info, status and TODOs
 
 You can find more information on the ScaleIO Framework's [github page][3]. This project will be moved over to the EMC {code} github repository soon. You can look for it [here][12] when that move happens.
