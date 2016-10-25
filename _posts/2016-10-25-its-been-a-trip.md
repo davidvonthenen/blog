@@ -1,6 +1,6 @@
 ---
 ID: 91
-post_title: 'It&#8217;s Been a Trip'
+post_title: 'Oct Recap: It&#8217;s Been a Trip'
 author: dvonthenen
 post_date: 2016-10-25 10:28:10
 post_excerpt: ""
