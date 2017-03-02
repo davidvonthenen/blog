@@ -22,7 +22,7 @@ So this second feature comes from my days as both a storage and backup user... w
 
 ![Anything is possible](https://github.com/dvonthenen/blog/raw/master/images/anything-is-possible.jpg)
 
-The idea is that as our ScaleIO storage pool starts to approach full, we can provision more raw disks in the form of EBS volumes to contribute to the storage pool. Since we exist in the cloud or in this case AWS that is only an API call away. That is exactly idea behind this feature... to live in a world where applications can self-remediate and fix themselves. Sounds cool yea?!?! If you are interested in more information about this feature, I urge you to check out the [user guide](http://scaleio-framework.readthedocs.io/en/stable/user-guide/experimental/), try it out, provide input and feedback!
+The idea is that as our ScaleIO storage pool starts to approach full, we can provision more raw disks in the form of EBS volumes to contribute to the storage pool. Since we exist in the cloud or in this case AWS that is only an API call away. That is exactly idea behind this feature... to live in a world where applications can self-remediate and fix themselves. Sounds cool yea?!?! If you are interested in more information about this feature, I urge you to check out the [user guide](http://scaleio-framework.readthedocs.io/en/stable/user-guide/experimental/), try it out, provide input and feedback! And if you happen to be at [SCaLE 15x](https://www.socallinuxexpo.org/scale/15x/presentations/how-container-schedulers-and-software-defined-storage-will-change-cloud) this week, I will be doing this exact demo live!
 
 ### Where to go next...
 
