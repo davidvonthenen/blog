@@ -1,3 +1,8 @@
+---
+post_title: 'Applications that Fix Themselves'
+layout: post
+published: true
+---
 I know that in my last blog post I said I would be talking (and probably announcing) the FaultSet functionality planned for the next release of the [ScaleIO Framework](https://github.com/codedellemc/scaleio-framework). As all things in the world of technology and software, things don't always go as planned. So today I am here to talk about some stuff relating to the Framework that will be in my speaking session entitled [How Container Schedulers and Software Defined Storage will Change the Cloud](https://www.socallinuxexpo.org/scale/15x/presentations/how-container-schedulers-and-software-defined-storage-will-change-cloud) at [SCaLE 15x](https://www.socallinuxexpo.org/scale/15x) this Saturday March 4th at 3pm in Ballroom F of the Pasadena Convention Center.
 
 ![SCaLE 15x Logo](https://github.com/dvonthenen/blog/raw/master/images/15x_logo_lg.png)
