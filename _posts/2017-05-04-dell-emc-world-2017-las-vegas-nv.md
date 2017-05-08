@@ -21,7 +21,7 @@ The second session I will be presenting solo. It's called [Managing ScaleIO As S
 
 ![Have fun, but not too much fun!][10]
 
-If you are heading down to Dell EMC World this year, stop by the sessions the {code} team will be presenting at and if you have any questions, feel free to linger around the presentations to chat. I think this is going to be an awesome conference, do check out some of the social networking opportunities available to connect with some new people, and as always enjoy the show and have fun (but not too much... it's Vegas after all)!
+If you are heading down to Dell EMC World this year, stop by the sessions the {code} team will be presenting at and if you have any questions, feel free to linger around after the presentations to chat. I think this is going to be an awesome conference, do check out some of the social networking opportunities available to connect with some new people, and as always enjoy the show and have fun (but not too much... it's Vegas after all)!
 
  [1]: http://www.dellemcworld.com/index.htm
  [2]: http://codedellemc.com/
