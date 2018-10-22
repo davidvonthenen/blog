@@ -3,7 +3,7 @@ post_title: 'YAKB: Running Kubernetes on Your Laptop'
 layout: post
 published: true
 ---
-Hi there! Yes, it's been a while since I have posted to my personal blog. Before I get to my post, I thought I would just bring you up to speed with what's been going on in my world since my last post. So I no longer work at Dell EMC. I also no longer work at Dell Technologies. After transfer upon transfer, I currently work at VMware. The change has been going good so far especially moving from companies that are traditionally hardware based to a company that is mostly software focused. While I have only been at VMware since March of this year, the momentum in the Kubernetes and CNCF communities and VMware's commitment to those communities, VMware was an obvious choice going forward. Which leads me to this blog post...
+Hi there! Yes, it's been a while since I have posted to my personal blog. Before I get to my post, I thought I would just bring you up to speed with what's been going on in my world since my last post. So I no longer work at Dell EMC. I also no longer work at Dell Technologies. After transfer upon transfer, I currently work at VMware. The change has been going good so far especially moving from companies that are traditionally hardware based to a company that is mostly software focused. While I have only been at VMware since March of this year, the momentum in the Kubernetes and CNCF communities and VMware's commitment to those communities has made VMware an obvious choice going forward. Which leads me to this blog post...
 
 ## Let's get to the Blog!
 
@@ -58,7 +58,7 @@ minikube config set memory 4096
 minikube config set cpus 2
 </pre>
 
-*RHEL7 NOTE:* If you see the following error:
+*RHEL7 NOTE:* If you see the following error (I did not during my install, but it has been reported to happen sometimes):
 <pre>
 Could not read CA certificate "/etc/docker/ca.pem": open /etc/docker/ca.pem: no such file or directory
 </pre>
