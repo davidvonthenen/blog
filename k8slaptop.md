@@ -97,4 +97,4 @@ minikube stop
 
 Well, there it is! A simple way to get a Kubernetes cluster running on your laptop without requiring a public cloud account or a ton of hardware sitting in a lab or datacenter somewhere. This by far isn't a magic bullet and it only good for running small light-weight applications. If anything, it's a simple way to familiarize yourself with Kubernetes and general management of the cluster.
 
-I plan on posting to my blog more often now... so stay tuned on some cool future blog posts! If you have any suggestions on topics you want to hear more on, please let me know. I am interested in everything from intro-101-type blogs to deep-dives. Just drop me a line!
+I plan on posting to my blog more often now... so stay tuned on some cool future blog posts! If you have any suggestions on topics you want to hear more on, please let me know! I am interested in everything from intro-101-type blogs to deep-dives. Just drop me a line!
