@@ -13,8 +13,6 @@ You need this [Writing On GitHub](https://github.com/litefeel/writing-on-github)
 
 If you want the Markdown support to translate Markdown into the Wordpress format, you need the [WP-Markdown](https://wordpress.org/plugins/wp-markdown/installation/) to be installed.
 
-Something that wasnt immediately obvious is that when you create new Markdown files in your GitHub repo, you need to have the top of your Markdown file contain some Wordpress metadata in order to assist with the translation to Wordpress. You can find this article [here](https://wordpress.org/plugins/wp-github-sync/faq/).
-
 ### Quirks
 
 So in running this integration I ran into a number of interesting quirks that I am going to attempt to document here so that I (and others) don't run into this again.
