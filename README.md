@@ -9,9 +9,9 @@ There are a couple of cool things that occur as a result of GitHub/Wordpress int
 
 ### How did I go about doing this?
 
-You need this [Wordpress-GitHub-Plugin](https://wordpress.org/plugins/wp-github-sync/installation/) to be installed on your Wordpress server. You obviously need to have GitHub account with a repo that will contain your blog posts along with an OAuth token to receive GitHub push events.
+You need this [Writing On GitHub](https://github.com/litefeel/writing-on-github) to be installed on your Wordpress server. You obviously need to have GitHub account with a repo that will contain your blog posts along with an OAuth token to receive GitHub push events.
 
-If you want the Markdown support to translate Markdown into the Wordpress format, you need the [WP Markdown Plugin](https://wordpress.org/plugins/wp-markdown/installation/) to be installed.
+If you want the Markdown support to translate Markdown into the Wordpress format, you need the [WP-Markdown](https://wordpress.org/plugins/wp-markdown/installation/) to be installed.
 
 Something that wasnt immediately obvious is that when you create new Markdown files in your GitHub repo, you need to have the top of your Markdown file contain some Wordpress metadata in order to assist with the translation to Wordpress. You can find this article [here](https://wordpress.org/plugins/wp-github-sync/faq/).
 
