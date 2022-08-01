@@ -1,5 +1,6 @@
 ---
 post_title: 'My Test Post'
+post_name: 'My Test Post'
 layout: post
 published: true
 author: david
