@@ -2,6 +2,11 @@
 post_title: 'My Test Post'
 layout: post
 published: true
+author: david
+tags:
+    - Test Tag
+categories:
+    - Test Cat
 ---
 
 Hello this is the first paragraph!
