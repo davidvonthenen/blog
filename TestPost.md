@@ -9,7 +9,7 @@ categories:
     - Test Cat
 ---
 
-Hello this is the first paragraph
+Hello this is the first paragraph!
 
 ## My Subsection
 
