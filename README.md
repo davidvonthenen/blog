@@ -11,7 +11,11 @@ There are a couple of cool things that occur as a result of GitHub/Wordpress int
 
 You need this [Writing On GitHub](https://github.com/litefeel/writing-on-github) to be installed on your Wordpress server. You obviously need to have GitHub account with a repo that will contain your blog posts along with an OAuth token to receive GitHub push events.
 
-If you want the Markdown support to translate Markdown into the Wordpress format, you need the [WP-Markdown](https://wordpress.org/plugins/wp-markdown/installation/) to be installed.
+If you want the Markdown support for Wordpress format, you have 2 options:
+1. you need the [WP-Markdown](https://wordpress.org/plugins/wp-markdown/installation/) to be installed and you need to make some slight modifications to the source code. Open the `wp-content/plugins/wp-markdown/markdown-extra.php` file and replace (and only replace) `{0}` and `{1}` with `[0]` and `[1]` respectively. These changes are needed to handle the PHP7 support.
+2. you can install the [Jetpack](https://wordpress.org/plugins/jetpack/) plugin. Then to configure the plugin, select "Setting", go to the "Writing" tab, and in the "Composing" section, enable the following option "Write posts or pages in plain-text Markdown syntax".
+
+Both options will work, but the `WP-Markdown` option seems to much lighter weight than `Jetpack`. In contrast, the `Jetpack` option might handle all tags of markdown, but so far `WP-Markdown` seems to handle all of my use cases.
 
 ### Quirks
 
