@@ -25,7 +25,7 @@ What’s new with me, you ask? Well, as I started to get back into the open sour
 
 But... change was brewing at VMware and I found myself taking a new and exciting opportunity with a great and sharp group of people at [Symbl](https://symbl.ai/). What is Symbl? Symbl is a rapidly maturing startup focused on the Conversation Intelligence space providing a platform to help other developers integrate conversational context into their applications and services via APIs. If you’re interested in learning more, watch this presentation below by our CEO and co-founder, Surbhi Rathore.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZxlr32ShdY?start=1578" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZxlr32ShdY?start=1578" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I have enjoyed my time working on application infrastructure, Kubernetes, containers, and everything virtualization, but this is a welcome change for me. Throughout my career, I have always taken on bold, engaging, and areas in technology that represent the unknown to me. This definitely qualifies. Conversation Intelligence is exponentially growing, and we are just scratching the surface in terms of its potential applications and what new features all of us can dream up.  
 
