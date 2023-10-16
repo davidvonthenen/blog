@@ -16,7 +16,7 @@ categories:
 
 This was my first time at the [RTC Conference at Illinois Institute of Technology](https://www.rtc-conference.com/2023/) in Chicago, and I was blown away by the caliber of talks at the event. They ranged from very academic and theoretical to extremely practical, capturing what is happening on the ground today in real-time communications. The mix of attendees was one of the most diverse I have ever seen, which included seasoned professionals in their respective fields to bright and inquisitive minds from IIT starting their careers in the workforce. I was fortunate to have some fantastic conversations while I was here, which I will get to at the end of this post, but this was a mind-opening experience that I am grateful to have received.
 
-[RTC Conference at Illinois Institute of Technology](https://davidvonthenen.com/wp-content/uploads/writing-on-github/images/2023/real-time-communication-conference/rtc-conference-at-iit.png)
+![RTC Conference at Illinois Institute of Technology](https://davidvonthenen.com/wp-content/uploads/writing-on-github/images/2023/real-time-communication-conference/rtc-conference-at-iit.png)
 
 My journey to Chicago included presenting two sessions at the conference. The first was titled "Enhancing Real-Time WebRTC Conversation Understanding Using [ChatGPT](https://openai.com/blog/chatgpt)" and the second was "Edge Devices as Interactive Personal Assistants: Unleashing the Power of Generative AI Agents". The talks each had very different goals in what they were trying to achieve. Based on the feedback and number of questions that I got afterward in the hallway, they were very well received. Attendees got a glimpse into some unique and thought-provoking possibilities they could take home to explore.
 
@@ -54,6 +54,6 @@ An example I always like to give is the calculator and personal computer. When t
 
 Everyone recognizes the potential for Artificial Intelligence as the next significant disruptor to humanity. My advice is that just like the calculator or computer, it's best to understand and know how to use these systems regardless of your field. Those who know how to leverage AI will outshine those who don't. Finally, when there isn't a need for a door-to-door encyclopedia salesperson, it's best to objectively recognize the change in tides and learn something new to transition to. That's my long-winded answer.
 
-[Meeting New Friends](https://davidvonthenen.com/wp-content/uploads/writing-on-github/images/2023/real-time-communication-conference/rtc-conference-friends.jpeg)
+![Meeting New Friends](https://davidvonthenen.com/wp-content/uploads/writing-on-github/images/2023/real-time-communication-conference/rtc-conference-friends.jpeg)
 
 I had a great time at [RTC Conference at IIT](https://www.rtc-conference.com/2023/), and if you are a person like me who loves to learn new and exciting topics, technologies, and ideas, then this is a great place to expand your mind. I highly recommend going and hope I am lucky enough to be working on something compelling enough to share with others next year. Cheers! 
