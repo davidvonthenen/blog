@@ -1,20 +1,25 @@
 ---
+ID: 265
 post_title: 'Voice Cloning: The Text-to-Speech Feature You Never Knew You Needed And Why It Matters'
+post_name: >
+  voice-cloning-the-text-to-speech-feature-you-never-knew-you-needed-and-why-it-matters
+author: David vonThenen
+post_date: 2025-01-05 11:19:56
 layout: post
+link: >
+  https://davidvonthenen.com/2025/01/05/voice-cloning-the-text-to-speech-feature-you-never-knew-you-needed-and-why-it-matters/
 published: true
-author: david
 tags:
-    - AI
-    - Artificial Intelligence
-    - Conversation AI
-    - ML
-    - Machine Learning
-    - Voice AI
+  - AI
+  - Artificial Intelligence
+  - Conversation AI
+  - Machine Learning
+  - ML
+  - Voice AI
 categories:
-    - AI/ML
-    - Voice AI
+  - AI/ML
+  - Voice AI
 ---
-
 Over the holiday break, I started experimenting with cloning my voice for reasons I will get to later in this blog post. As I walked down the list of Voice Cloning providers out there and began to evaluate them using my cost-to-benefit ratio scale, a set of requirements and must-have capabilities emerged.
 
 In this blog post, we will cover what those required features are, why they are essential for my scenario, why I feel those reasons will transcend into the general use case, and, ultimately, what it means for text-to-speech providers moving forward.
@@ -75,4 +80,3 @@ Those platforms that don't offer voice cloning will need to at some point or die
 In this quest to clone my voice, I tried a bunch of platforms out there, and I found one that works the best for me, taking things like price and intonation into account. I may have a follow-up blog post about the journey and process I used to select and compare all the services. If those are interested, a behind-the-scenes of what I will use voice cloning for might interest people reading this post.
 
 Until then, I hope you found this analysis interesting and the breakdown for the various use cases enlightening. Until the next time... happy hacking! If you like what you read, check out my other stuff at: ![https://linktr.ee/davidvonthenen](https://linktr.ee/davidvonthenen).
-
