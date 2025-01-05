@@ -74,5 +74,5 @@ Those platforms that don't offer voice cloning will need to at some point or die
 
 In this quest to clone my voice, I tried a bunch of platforms out there, and I found one that works the best for me, taking things like price and intonation into account. I may have a follow-up blog post about the journey and process I used to select and compare all the services. If those are interested, a behind-the-scenes of what I will use voice cloning for might interest people reading this post.
 
-Until then, I hope you found this analysis interesting and the breakdown for the various use cases enlightening. Until the next time... happy hacking!
+Until then, I hope you found this analysis interesting and the breakdown for the various use cases enlightening. Until the next time... happy hacking! If you like what you read, check out my other stuff at: ![https://linktr.ee/davidvonthenen](https://linktr.ee/davidvonthenen).
 
