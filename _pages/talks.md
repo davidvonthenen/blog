@@ -16,19 +16,27 @@ categories: [ ]
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>(PENDING) Workshop: Adaptive RAG Systems with Knowledge Graphs: Building Reinforcement-Learning-Driven AI Applications - Open Data Science Conference (ODSC) East, May 2025</li>
+<li>(PENDING) Workshop: Adaptive RAG Systems with Knowledge Graphs: Building Reinforcement-Learning-Driven AI Applications - <a href="https://odsc.com/speakers/adaptive-rag-systems-with-knowledge-graphs-building-reinforcement-learning-driven-ai-applications/" title="">Open Data Science Conference (ODSC) East, May 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>(PENDING) Leveraging Knowledge Graphs for RAG: A Smarter Approach to Contextual AI Applications - All Things Open AI, March 2025</li>
+<li>(PENDING) Leveraging Knowledge Graphs for RAG: A Smarter Approach to Contextual AI Applications - <a href="https://allthingsopen.ai/sessions/leveraging-knowledge-graphs-for-rag-a-smarter-approach-to-contextual-ai-applications" title="">All Things Open AI, March 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>(PENDING) Crack the AI Black Box: Practical Techniques for Explainable AI - NVIDIA GTC, March 2025</li>
+<li>(PENDING) Crack the AI Black Box: Practical Techniques for Explainable AI - <a href="https://www.nvidia.com/gtc/session-catalog/?search=S74147#/session/1734135317253001NfAh" title="">NVIDIA GTC, March 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>(PENDING) Training Multi-Modal ML Classification Models for Real-Time Detection of Debilitating Disease - Southern California Linux Expo (SCaLE) 22x, March 2025</li>
+<li>(PENDING) Training Multi-Modal ML Classification Models for Real-Time Detection of Debilitating Disease - <a href="https://www.socallinuxexpo.org/scale/22x/presentations/training-multi-modal-ml-classification-models-real-time-detection" title="">Southern California Linux Expo (SCaLE) 22x, March 2025</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Keynote:</strong> The Sound of Innovation: Why Voice Cloning Will Redefine Human-Computer Interaction - <a href="https://developerweek2025.sched.com/event/1tz7d/keynote-digitalocean-the-sound-of-innovation-why-voice-cloning-will-redefine-human-computer-interaction" title="">Developer Week, Feb 2025</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Navigating the Edge-Cloud Bridge: Building Resource Optimized IoT/Edge Assistants with LLMs - <a href="https://developerweek2025.sched.com/event/1tz6p/open-session-navigating-the-edge-cloud-bridge-building-resource-optimized-iotedge-assistants-with-llms" title="">Developer Week, Feb 2025</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
