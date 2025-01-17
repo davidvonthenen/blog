@@ -1,20 +1,28 @@
 ---
-post_title: 'Will AI Replace Mid-Level Engineers by 2025? Not So Fast, Mark Zuckerberg'
+ID: 274
+post_title: >
+  Will AI Replace Mid-Level Engineers by
+  2025? Not So Fast, Mark Zuckerberg
+post_name: >
+  will-ai-replace-mid-level-engineers-by-2025-not-so-fast-mark-zuckerberg
+author: David vonThenen
+post_date: 2025-01-17 08:52:34
 layout: post
+link: >
+  https://davidvonthenen.com/2025/01/17/will-ai-replace-mid-level-engineers-by-2025-not-so-fast-mark-zuckerberg/
 published: true
 tags:
   - AI
   - Artificial Intelligence
   - Conversation AI
+  - Fun
   - Machine Learning
   - ML
-  - Fun
   - Personal
 categories:
   - AI/ML
   - Personal
 ---
-
 It's hard to ignore the growing buzz around artificial intelligence (AI) and its potential impact on various industries. Recently, Mark Zuckerberg predicted on Joe Rogan's podcast that AI could replace mid-level engineers by 2025. While it's a compelling narrative, it misses the mark for several reasons. Let's unpack why this prediction is more hype than reality.
 
 ## Companies Aren't Fully Using Their Own AI Tools
