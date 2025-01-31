@@ -18,7 +18,7 @@ categories:
   - AI/ML
   - Personal
 ---
-I was recently at a conference where I started chatting with a recent computer science graduate about job hunting in the world today. We discussed the job market landscape as it exists today and all of the economic influences, disruptive technology (cough, AI, cough), and competition out there.
+I was recently at a conference where I started chatting with a computer science graduate about job hunting in the world today. We discussed the job market landscape as it exists today and all of the economic influences, disruptive technology (cough, AI, cough), and competition out there.
 
 ![Old School Cell Phone](https://github.com/dvonthenen/blog/blob/master/images/2025/beyond-the-resume/cell-phone.jpg?raw=true)
 
