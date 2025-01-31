@@ -1,6 +1,13 @@
 ---
+ID: 281
 post_title: 'Beyond the Resume: Speculative Hiring Trends in an AI World'
+post_name: >
+  beyond-the-resume-speculative-hiring-trends-in-an-ai-world
+author: David vonThenen
+post_date: 2025-01-30 20:05:19
 layout: post
+link: >
+  https://davidvonthenen.com/2025/01/30/beyond-the-resume-speculative-hiring-trends-in-an-ai-world/
 published: true
 tags:
   - AI
