@@ -63,6 +63,10 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>     o   The Rise of Agentic AI: Harnessing Open Source for Dynamic Decision-Making - <a href="https://www.devoxx.co.uk/speaker/?id=9501" title="">Devoxx UK 2025</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>     o   Explaining the Unexplainable: Python Tools for AI Transparency using Captum - Devoxx France</p>
 <!-- /wp:paragraph -->
 
