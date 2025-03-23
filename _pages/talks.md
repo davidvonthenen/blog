@@ -16,6 +16,11 @@ categories: [ ]
 
 <!-- wp:list -->
 <ul class="wp-block-list">
+
+<!-- wp:list-item -->
+<li>Hack the System: How Adversarial Inputs Improve Models and Protect Privacy - <a href="https://www.devoxx.co.uk/speaker/?id=9501" title="">Devoxx Poland</a></li>
+<!-- /wp:list-item -->
+
 <!-- wp:list-item -->
 <li>Workshop: Adaptive RAG Systems with Knowledge Graphs: Building Reinforcement-Learning-Driven AI Applications - <a href="https://odsc.com/speakers/adaptive-rag-systems-with-knowledge-graphs-building-reinforcement-learning-driven-ai-applications/" title="">Open Data Science Conference (ODSC) East, May 2025</a></li>
 <!-- /wp:list-item -->
@@ -33,7 +38,7 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Crack the AI Black Box: Practical Techniques for Explainable AI - <a href="https://www.nvidia.com/gtc/session-catalog/?search=S74147#/session/1734135317253001NfAh" title="">NVIDIA GTC, March 2025</a></li>
+<li><a href="https://youtu.be/umurTAD4x2Y" target="_blank">Crack the AI Black Box: Practical Techniques for Explainable AI</a> - <a href="https://www.nvidia.com/gtc/session-catalog/?search=S74147#/session/1734135317253001NfAh" title="">NVIDIA GTC, March 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -41,11 +46,15 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Keynote:</strong> The Sound of Innovation: Why Voice Cloning Will Redefine Human-Computer Interaction - <a href="https://developerweek2025.sched.com/event/1tz7d/keynote-digitalocean-the-sound-of-innovation-why-voice-cloning-will-redefine-human-computer-interaction" title="">Developer Week, Feb 2025</a></li>
+<li><a href="https://youtu.be/hAvCtpKnkLI" target="_blank">Demystifying Building NLP ML Models and How to Leverage Them By Example</a> - <a href="https://www.socallinuxexpo.org/scale/22x/presentations/training-multi-modal-ml-classification-models-real-time-detection" title="">Southern California Linux Expo (SCaLE) 22x, March 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Navigating the Edge-Cloud Bridge: Building Resource Optimized IoT/Edge Assistants with LLMs - <a href="https://developerweek2025.sched.com/event/1tz6p/open-session-navigating-the-edge-cloud-bridge-building-resource-optimized-iotedge-assistants-with-llms" title="">Developer Week, Feb 2025</a></li>
+<li><a href="https://youtu.be/WkQnqkHrzEQ" target="_blank"><strong>Keynote:</strong> The Sound of Innovation: Why Voice Cloning Will Redefine Human-Computer Interaction</a> - <a href="https://developerweek2025.sched.com/event/1tz7d/keynote-digitalocean-the-sound-of-innovation-why-voice-cloning-will-redefine-human-computer-interaction" title="">Developer Week, Feb 2025</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://youtu.be/mAvCaSFuLZk" target="_blank">Navigating the Edge-Cloud Bridge: Building Resource Optimized IoT/Edge Assistants with LLMs</a> - <a href="https://developerweek2025.sched.com/event/1tz6p/open-session-navigating-the-edge-cloud-bridge-building-resource-optimized-iotedge-assistants-with-llms" title="">Developer Week, Feb 2025</a></li>
 <!-- /wp:list-item -->
 </ul>
 <!-- /wp:list -->
