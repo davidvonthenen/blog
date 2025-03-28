@@ -18,7 +18,7 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
-<li>Hack the System: How Adversarial Inputs Improve Models and Protect Privacy - <a href="https://www.devoxx.co.uk/speaker/?id=9501" title="">Devoxx Poland</a></li>
+<li>The Future of UI/UX: AI-Generated Interfaces Tailored Just-in-Time - RenderATL, June 2025</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
