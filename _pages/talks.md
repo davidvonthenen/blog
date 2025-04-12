@@ -18,43 +18,47 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
+<li>Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - WeAreDevelopers World Congeress, July 2025</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>The Future of UI/UX: AI-Generated Interfaces Tailored Just-in-Time - RenderATL, June 2025</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Workshop: Adaptive RAG Systems with Knowledge Graphs: Building Reinforcement-Learning-Driven AI Applications - <a href="https://odsc.com/speakers/adaptive-rag-systems-with-knowledge-graphs-building-reinforcement-learning-driven-ai-applications/" title="">Open Data Science Conference (ODSC) East, May 2025</a></li>
+<li>Workshop: Adaptive RAG Systems with Knowledge Graphs: Building Reinforcement-Learning-Driven AI Applications - <a href="https://odsc.com/speakers/adaptive-rag-systems-with-knowledge-graphs-building-reinforcement-learning-driven-ai-applications/" target="_blank">Open Data Science Conference (ODSC) East, May 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>The Rise of Agentic AI: Harnessing Open Source for Dynamic Decision-Making - <a href="https://www.devoxx.co.uk/speaker/?id=9501" title="">Devoxx UK</a></li>
+<li>The Rise of Agentic AI: Harnessing Open Source for Dynamic Decision-Making - <a href="https://www.devoxx.co.uk/talk?id=10994" target="_blank">Devoxx UK 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Explaining the Unexplainable: Python Tools for AI Transparency using Captum - Devoxx France</li>
+<li>Explaining the Unexplainable: Python Tools for AI Transparency using Captum - <a href="https://mobile.devoxx.com/events/devoxxfr2025/talks/6651/details" target="_blank">Devoxx France 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Leveraging Knowledge Graphs for RAG: A Smarter Approach to Contextual AI Applications - <a href="https://allthingsopen.ai/sessions/leveraging-knowledge-graphs-for-rag-a-smarter-approach-to-contextual-ai-applications" title="">All Things Open AI, March 2025</a></li>
+<li><a href="https://youtu.be/umurTAD4x2Y" target="_blank">Leveraging Knowledge Graphs for RAG: A Smarter Approach to Contextual AI Applications</a> - <a href="https://allthingsopen.ai/sessions/leveraging-knowledge-graphs-for-rag-a-smarter-approach-to-contextual-ai-applications" target="_blank">All Things Open AI, March 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://youtu.be/umurTAD4x2Y" target="_blank">Crack the AI Black Box: Practical Techniques for Explainable AI</a> - <a href="https://www.nvidia.com/gtc/session-catalog/?search=S74147#/session/1734135317253001NfAh" title="">NVIDIA GTC, March 2025</a></li>
+<li><a href="https://youtu.be/umurTAD4x2Y" target="_blank">Crack the AI Black Box: Practical Techniques for Explainable AI</a> - <a href="https://www.nvidia.com/gtc/session-catalog/?search=S74147#/session/1734135317253001NfAh" target="_blank">NVIDIA GTC, March 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Training Multi-Modal ML Classification Models for Real-Time Detection of Debilitating Disease - <a href="https://www.socallinuxexpo.org/scale/22x/presentations/training-multi-modal-ml-classification-models-real-time-detection" title="">Southern California Linux Expo (SCaLE) 22x, March 2025</a></li>
+<li>Training Multi-Modal ML Classification Models for Real-Time Detection of Debilitating Disease - <a href="https://www.socallinuxexpo.org/scale/22x/presentations/training-multi-modal-ml-classification-models-real-time-detection" target="_blank">Southern California Linux Expo (SCaLE) 22x, March 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://youtu.be/hAvCtpKnkLI" target="_blank">Demystifying Building NLP ML Models and How to Leverage Them By Example</a> - <a href="https://www.socallinuxexpo.org/scale/22x/presentations/training-multi-modal-ml-classification-models-real-time-detection" title="">Southern California Linux Expo (SCaLE) 22x, March 2025</a></li>
+<li><a href="https://youtu.be/hAvCtpKnkLI" target="_blank">Demystifying Building NLP ML Models and How to Leverage Them By Example</a> - <a href="https://www.socallinuxexpo.org/scale/22x/presentations/training-multi-modal-ml-classification-models-real-time-detection" target="_blank">Southern California Linux Expo (SCaLE) 22x, March 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://youtu.be/WkQnqkHrzEQ" target="_blank"><strong>Keynote:</strong> The Sound of Innovation: Why Voice Cloning Will Redefine Human-Computer Interaction</a> - <a href="https://developerweek2025.sched.com/event/1tz7d/keynote-digitalocean-the-sound-of-innovation-why-voice-cloning-will-redefine-human-computer-interaction" title="">Developer Week, Feb 2025</a></li>
+<li><a href="https://youtu.be/WkQnqkHrzEQ" target="_blank"><strong>Keynote:</strong> The Sound of Innovation: Why Voice Cloning Will Redefine Human-Computer Interaction</a> - <a href="https://developerweek2025.sched.com/event/1tz7d/keynote-digitalocean-the-sound-of-innovation-why-voice-cloning-will-redefine-human-computer-interaction" target="_blank">Developer Week, Feb 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://youtu.be/mAvCaSFuLZk" target="_blank">Navigating the Edge-Cloud Bridge: Building Resource Optimized IoT/Edge Assistants with LLMs</a> - <a href="https://developerweek2025.sched.com/event/1tz6p/open-session-navigating-the-edge-cloud-bridge-building-resource-optimized-iotedge-assistants-with-llms" title="">Developer Week, Feb 2025</a></li>
+<li><a href="https://youtu.be/mAvCaSFuLZk" target="_blank">Navigating the Edge-Cloud Bridge: Building Resource Optimized IoT/Edge Assistants with LLMs</a> - <a href="https://developerweek2025.sched.com/event/1tz6p/open-session-navigating-the-edge-cloud-bridge-building-resource-optimized-iotedge-assistants-with-llms" target="_blank">Developer Week, Feb 2025</a></li>
 <!-- /wp:list-item -->
 </ul>
 <!-- /wp:list -->
@@ -65,15 +69,15 @@ categories: [ ]
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Workshop</strong>: Building Multiple Natural Language Processing Models to Work In Concert Together - <a href="https://odsc.com/speakers/building-multiple-natural-language-processing-models-to-work-in-concert-together/" title="">Open Data Science Conference West 2024, Oct 2024</a></li>
+<li><strong>Workshop</strong>: Building Multiple Natural Language Processing Models to Work In Concert Together - <a href="https://odsc.com/speakers/building-multiple-natural-language-processing-models-to-work-in-concert-together/" target="_blank">Open Data Science Conference West 2024, Oct 2024</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Keynote:</strong> <a href="https://youtu.be/YgeinCCUBCk?si=m6dhalbBiwbOouJv" title="">Training Machine Learning Classification Models for Creating Real-Time Data Points of Medical Conditions</a>&nbsp;- <a href="https://www.rtc-conference.com/2024/presentation/?hid=313" title="">Real Time Communications Conference &amp; Expo - IEEE International, Oct 2024</a></li>
+<li><strong>Keynote:</strong> <a href="https://youtu.be/YgeinCCUBCk?si=m6dhalbBiwbOouJv" target="_blank">Training Machine Learning Classification Models for Creating Real-Time Data Points of Medical Conditions</a>&nbsp;- <a href="https://www.rtc-conference.com/2024/presentation/?hid=313" target="_blank">Real Time Communications Conference &amp; Expo - IEEE International, Oct 2024</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://youtu.be/0DHHS17mn_o?si=wZVUiX2Mx64zfKEy" title="">Building Multiple Natural Language Processing Models to Work In Concert Together</a> - <a href="https://www.rtc-conference.com/2024/presentation/?hid=312" title="">Real Time Communications Conference &amp; Expo - IEEE International, Oct 2024</a></li>
+<li><a href="https://youtu.be/0DHHS17mn_o?si=wZVUiX2Mx64zfKEy" target="_blank">Building Multiple Natural Language Processing Models to Work In Concert Together</a> - <a href="https://www.rtc-conference.com/2024/presentation/?hid=312" target="_blank">Real Time Communications Conference &amp; Expo - IEEE International, Oct 2024</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -117,7 +121,7 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://youtu.be/IGRbpNmBmKA?si=FU-RYy6_Wo_-L8kF" title="">Learnings From Creating CI/CD Pipelines for Open Source Kubernetes Projects</a> – <a href="https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-eu-valencia-2022/talk/DRRWA3/" title="">Cloud Native Rejekts Europe 2022</a></li>
+<li><a href="https://youtu.be/IGRbpNmBmKA?si=FU-RYy6_Wo_-L8kF" target="_blank">Learnings From Creating CI/CD Pipelines for Open Source Kubernetes Projects</a> – <a href="https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-eu-valencia-2022/talk/DRRWA3/" target="_blank">Cloud Native Rejekts Europe 2022</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -143,7 +147,7 @@ categories: [ ]
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://youtu.be/Yhx6YO2ZowM?si=Ai3jidVINB21mxnR" title="">Provider vSphere: All Things vSphere Working Group</a><span style="font-size: 1rem;"> - <a href="https://kccnceu20.sched.com/event/ZevZ/provider-vsphere-all-things-vsphere-working-group-david-vonthenen-fabio-rapposelli-vmware" title="">KubeCon + CloudNativeCon Europe 2020</a></span></li>
+<li><a href="https://youtu.be/Yhx6YO2ZowM?si=Ai3jidVINB21mxnR" target="_blank">Provider vSphere: All Things vSphere Working Group</a><span style="font-size: 1rem;"> - <a href="https://kccnceu20.sched.com/event/ZevZ/provider-vsphere-all-things-vsphere-working-group-david-vonthenen-fabio-rapposelli-vmware" target="_blank">KubeCon + CloudNativeCon Europe 2020</a></span></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -153,7 +157,7 @@ categories: [ ]
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://youtu.be/ijekYPaGW3k?si=RjHBqNSipQwHdgeL" title="">Intro: Kubernetes VMware SIG</a><span style="font-size: 1rem;"> - <a href="https://kccnceu19.sched.com/event/MPi1/intro-kubernetes-vmware-sig-david-vonthenen-steven-wong-vmware" title="">KubeCon + CloudNativeCon Europe 2019</a></span></li>
+<li><a href="https://youtu.be/ijekYPaGW3k?si=RjHBqNSipQwHdgeL" target="_blank">Intro: Kubernetes VMware SIG</a><span style="font-size: 1rem;"> - <a href="https://kccnceu19.sched.com/event/MPi1/intro-kubernetes-vmware-sig-david-vonthenen-steven-wong-vmware" target="_blank">KubeCon + CloudNativeCon Europe 2019</a></span></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -167,7 +171,7 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.youtube.com/live/wBRAcDWGiB0?si=CCG7z8OMYH-s61OQ" title="">Application Monitoring and Tracing in Kubernetes: Avoiding Microservice Hell!</a> – <a href="https://www.socallinuxexpo.org/scale/16x/presentations/application-monitoring-and-tracing-kubernetes-avoiding-microservice-hell" title="">SCaLE 16x 2018, Los Angeles</a></li>
+<li><a href="https://www.youtube.com/live/wBRAcDWGiB0?si=CCG7z8OMYH-s61OQ" target="_blank">Application Monitoring and Tracing in Kubernetes: Avoiding Microservice Hell!</a> – <a href="https://www.socallinuxexpo.org/scale/16x/presentations/application-monitoring-and-tracing-kubernetes-avoiding-microservice-hell" target="_blank">SCaLE 16x 2018, Los Angeles</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -177,11 +181,11 @@ categories: [ ]
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://youtu.be/HbgBQ_TsPqs?si=Fx-I7lHROP6MQQ2K" title="">Robust Applications in Mesos using External Storage</a> – <a href="https://mesosconeu17.sched.com/event/C2jx/robust-applications-in-mesos-using-external-storage-david-vonthenen-code" title="">MesosCon EU 2017, Prague</a></li>
+<li><a href="https://youtu.be/HbgBQ_TsPqs?si=Fx-I7lHROP6MQQ2K" target="_blank">Robust Applications in Mesos using External Storage</a> – <a href="https://mesosconeu17.sched.com/event/C2jx/robust-applications-in-mesos-using-external-storage-david-vonthenen-code" target="_blank">MesosCon EU 2017, Prague</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://youtu.be/ph8KlAXX49I?si=OII-d5IAo4Dsajy9" title="">How Container Schedulers and Software-based Storage will Change the Cloud</a><span style="font-size: 1rem;"> – <a href="https://apachecon2017.sched.com/event/9zvO/how-container-schedulers-and-software-based-storage-will-change-the-cloud-david-vonthenen-code-by-dell-emc" title="">ApacheCon US 2017, Miami</a></span></li>
+<li><a href="https://youtu.be/ph8KlAXX49I?si=OII-d5IAo4Dsajy9" target="_blank">How Container Schedulers and Software-based Storage will Change the Cloud</a><span style="font-size: 1rem;"> – <a href="https://apachecon2017.sched.com/event/9zvO/how-container-schedulers-and-software-based-storage-will-change-the-cloud-david-vonthenen-code-by-dell-emc" target="_blank">ApacheCon US 2017, Miami</a></span></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -193,7 +197,7 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.youtube.com/live/6kYRv6ShRSo?si=SzU83AVZ6jQyRu2-" title="">How Container Schedulers and Software Defined Storage will Change the Cloud</a><span style="font-size: 1rem;"> – <a href="https://www.socallinuxexpo.org/scale/15x/presentations/how-container-schedulers-and-software-defined-storage-will-change-cloud" title="">SCaLE 15x 2017, Los Angeles</a></span></li>
+<li><a href="https://www.youtube.com/live/6kYRv6ShRSo?si=SzU83AVZ6jQyRu2-" target="_blank">How Container Schedulers and Software Defined Storage will Change the Cloud</a><span style="font-size: 1rem;"> – <a href="https://www.socallinuxexpo.org/scale/15x/presentations/how-container-schedulers-and-software-defined-storage-will-change-cloud" target="_blank">SCaLE 15x 2017, Los Angeles</a></span></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
