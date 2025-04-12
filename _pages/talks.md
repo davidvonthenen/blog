@@ -38,7 +38,7 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://youtu.be/umurTAD4x2Y" target="_blank">Leveraging Knowledge Graphs for RAG: A Smarter Approach to Contextual AI Applications</a> - <a href="https://allthingsopen.ai/sessions/leveraging-knowledge-graphs-for-rag-a-smarter-approach-to-contextual-ai-applications" target="_blank">All Things Open AI, March 2025</a></li>
+<li><a href="https://youtu.be/G_4O6mhk208?" target="_blank">Leveraging Knowledge Graphs for RAG: A Smarter Approach to Contextual AI Applications</a> - <a href="https://allthingsopen.ai/sessions/leveraging-knowledge-graphs-for-rag-a-smarter-approach-to-contextual-ai-applications" target="_blank">All Things Open AI, March 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
