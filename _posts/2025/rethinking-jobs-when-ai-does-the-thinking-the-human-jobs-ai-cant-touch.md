@@ -1,8 +1,14 @@
 ---
+ID: 303
 post_title: 'Rethinking Jobs When AI Does the Thinking: The Human Jobs AI Can’t Touch'
+post_name: >
+  rethinking-jobs-when-ai-does-the-thinking-the-human-jobs-ai-cant-touch
+author: David vonThenen
+post_date: 2025-04-22 06:59:01
 layout: post
+link: >
+  https://davidvonthenen.com/2025/04/22/rethinking-jobs-when-ai-does-the-thinking-the-human-jobs-ai-cant-touch/
 published: true
-author: david
 tags:
   - AI
   - Artificial Intelligence
@@ -11,7 +17,6 @@ categories:
   - AI/ML
   - Personal
 ---
-
 AI isn't just coming… It's already here, and it's reshaping how we think about jobs. But the big question isn't about which jobs AI will take; it’s about what new types of jobs humans will step into. We are transitioning from a knowledge-based economy to one driven by critical thinking and creative problem-solving. Soon, accessing PhD-level knowledge will be as simple as prompting an AI agent. The real skill will lie in knowing what questions to ask, how to ask them via a prompt, and how to guide AI to produce meaningful results.
 
 ![PhD-level Expert on Phone](https://github.com/dvonthenen/blog/blob/master/images/2025/rethinking-jobs-when-ai-does-the-thinking/phd-level-expert-on-phone.png?raw=true)
