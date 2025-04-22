@@ -37,7 +37,8 @@ To effectively direct AI agents, humans must understand the basics behind the to
 
 As AI and automation increasingly dominate knowledge-based roles, future jobs will shift towards:
 
-- Tangible, hands-on tasks that AI struggles to replicate, or
+- Tangible, hands-on tasks that AI struggles to replicate,
+- Tasks requiring rapport, empathy, and that human touch,
 - Where the cost-to-benefit ratio of replacing humans with AI isn't valuable enough
 
 The future of human employment will likely be grounded in the physical world, focusing on tasks that require nuanced physical interaction, spatial reasoning, empathy, or personalized service.
