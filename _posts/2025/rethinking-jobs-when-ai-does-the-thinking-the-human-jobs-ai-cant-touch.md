@@ -1,6 +1,6 @@
 ---
 ID: 303
-post_title: 'Rethinking Jobs When AI Does the Thinking: The Human Jobs AI Can't Touch'
+post_title: 'Rethinking Jobs When AI Does the Thinking: The Human Jobs AI Can&#8217;t Touch'
 post_name: >
   rethinking-jobs-when-ai-does-the-thinking-the-human-jobs-ai-cant-touch
 author: David vonThenen
