@@ -19,7 +19,7 @@ categories:
 ---
 AI isn't just coming... It's already here, and it's reshaping how we think about jobs. But the big question isn't about which jobs AI will take; it's about what new types of jobs humans will step into. We are transitioning from a knowledge-based economy to one driven by critical thinking and creative problem-solving. Soon, accessing PhD-level knowledge will be as simple as prompting an AI agent. The real skill will lie in knowing what questions to ask, how to ask them via a prompt, and how to guide AI to produce meaningful results.
 
-![PhD-level Expert on Phone](https://github.com/dvonthenen/blog/blob/master/images/2025/rethinking-jobs-when-ai-does-the-thinking/phd-level-expert-on-phone.png?raw=true)
+![PhD-level Expert on Phone](https://davidvonthenen.com/wp-content/uploads/2025/05/phd-level-expert-on-phone.png)
 
 BUT here's the issue: If AI handles most knowledge tasks, how do we ensure people, especially younger generations, learn enough foundational knowledge to ask smart questions with the context that AI prompts need? There is a tricky balance between relying on AI's intelligence and cultivating our own critical thinking and problem-solving abilities. If we don't get this right, we'll have a generation comfortable giving commands without truly understanding how the systems they're commanding actually work.
 
@@ -27,7 +27,7 @@ BUT here's the issue: If AI handles most knowledge tasks, how do we ensure peopl
 
 Today, deep expertise and hands-on learning seem less profitable because AI provides rapid, high-level insights. However, true critical thinking isn't something you can instantly download from an AI model. It requires humans to spend real time mastering foundational concepts, learning from failures, and experiencing the physical and mental process of problem-solving firsthand.
 
-![Foundational Knowledge](https://github.com/dvonthenen/blog/blob/master/images/2025/rethinking-jobs-when-ai-does-the-thinking/learning-foundational-knowledge.png?raw=true)
+![Foundational Knowledge](https://davidvonthenen.com/wp-content/uploads/2025/05/learning-foundational-knowledge.png)
 
 Adults already established in the workforce face a unique challenge here. Many have built careers on knowledge-based tasks that AI increasingly automates. For them, embracing continuous learning via 1) understanding how AI systems work, 2) how to direct them effectively, or 3) even pivoting toward entirely new roles will become crucial. The workforce will need robust retraining programs to smoothly guide mid-career professionals into roles enhanced, rather than diminished, by AI. The cynic in me knows this will largely depend on individuals with zero financial support (unless you count unemployment benefits) and formal training (such as extension courses) made available en masse. China, on the other hand, knows this is important and [is going all in](https://www.asiaeducationreview.com/others/news/china-makes-ai-education-mandatory-in-schools-starting-september-2025-nwid-3736.html).
 
@@ -43,7 +43,7 @@ As AI and automation increasingly dominate knowledge-based roles, future jobs wi
 
 The future of human employment will likely be grounded in the physical world, focusing on tasks that require nuanced physical interaction, spatial reasoning, empathy, or personalized service.
 
-![Future of Human Employment](https://github.com/dvonthenen/blog/blob/master/images/2025/rethinking-jobs-when-ai-does-the-thinking/future-of-human-employement.png?raw=true)
+![Future of Human Employment](https://davidvonthenen.com/wp-content/uploads/2025/05/future-of-human-employement.png)
 
 For tech professionals, this could mean adapting from pure software roles to tech roles grounded in physical reality, such as IoT integration, robotics, hardware troubleshooting, and hands-on cybersecurity assessments. It also means shifting toward roles where AI is complementary, such as AI integration specialists or human-AI interaction designers. There has been explosive growth in AI, but honestly, like everything in tech... it's only a matter of time (perhaps around 5ish years) before we reach peak AI/ML and the natural contraction begins to occur. It has happened in EVERY wave I have caught in my career: virtualization, containerization, and it will happen to AI/ML in some form. This doesn't mean you shouldn't get on the AI bandwagon... Get on NOW!
 
@@ -53,7 +53,7 @@ Humans naturally excel at adapting quickly to unpredictable situations and under
 
 Take, for example, robot repair technicians. As factories, homes, and public spaces become increasingly populated with robots and IoT devices, the job of maintaining, repairing, and optimizing these devices will be crucial. AI can diagnose many issues, but can't perform nuanced physical repairs, deal with unexpected hardware malfunctions, or adapt flexibly to unique real-world problems.
 
-![IoT/Edge Robots](https://github.com/dvonthenen/blog/blob/master/images/2025/rethinking-jobs-when-ai-does-the-thinking/repairing-military-drone.png?raw=true)
+![IoT/Edge Robots](https://davidvonthenen.com/wp-content/uploads/2025/05/repairing-military-drone.png)
 
 Software engineers and IT professionals could naturally transition into roles that blend coding skills with physical troubleshooting. AI can help quickly identify software or hardware faults, but human technicians will perform the intricate, hands-on adjustments that ensure devices run smoothly. I am from Long Beach, CA which happens to have the first and second large container ports in the United State and robotic has been been transforming the port for years, but when these automated cargo container movers need to change a tire, they are going to rely on humans to do this task.
 
@@ -61,7 +61,7 @@ Software engineers and IT professionals could naturally transition into roles th
 
 Jobs like plumbing, electrical work, construction, and HVAC installation will remain essential... and human-driven. These jobs require fine motor skills, judgment based on real-world conditions, and improvisation in unpredictable environments. Even sophisticated robotics will struggle to navigate cramped crawl spaces, creatively reroute pipes in unexpected wall cavities, or intuitively understand the quirks of an aging home.
 
-![Where Robots Lack Agility](https://github.com/dvonthenen/blog/blob/master/images/2025/rethinking-jobs-when-ai-does-the-thinking/robot-getting-stuck.png?raw=true)
+![Where Robots Lack Agility](https://davidvonthenen.com/wp-content/uploads/2025/05/robot-getting-stuck.png)
 
 Interestingly, professionals from technology sectors might find unexpected opportunities in these traditionally non-tech trades. The skills developed in software or IT roles, such as problem-solving, troubleshooting, and logic-based thinking, can be easily applied to these physical trades. Bringing tech skills into traditional industries can lead to lucrative niches, such as smart home installations, intelligent building automation, or specialized technical consultancy within physical trades.
 
@@ -69,7 +69,7 @@ Interestingly, professionals from technology sectors might find unexpected oppor
 
 Human-focused service jobs, such as those in healthcare, hospitality, personal training, and caregiving, will continue to see demand. These roles require empathy, sound judgment, and effective interpersonal connections. AI can complement these roles by providing better diagnostics, improved customer experience tools, or intelligent scheduling, but it cannot replace the human element of genuine care and interaction.
 
-![Human Related Jobs](https://github.com/dvonthenen/blog/blob/master/images/2025/rethinking-jobs-when-ai-does-the-thinking/human-related-jobs.png?raw=true)
+![Human Related Jobs](https://davidvonthenen.com/wp-content/uploads/2025/05/human-related-jobs.png)
 
 Tech professionals accustomed to remote, purely digital interactions might also find fulfilling and secure employment by pivoting toward more human-connected tech roles. Consider roles in telemedicine support, where understanding both human psychology and technology enables an engaging patient experience. Or perhaps educational technology support, blending AI tools with human interaction to create personalized learning environments. Embracing roles that bridge technology and human connection will become an increasingly rewarding career strategy.
 
@@ -77,7 +77,7 @@ Tech professionals accustomed to remote, purely digital interactions might also 
 
 AI systems themselves create new security demands both in protecting and disrupting these technologies. Roles in AI security will become highly specialized, including professionals who intentionally probe AI systems to discover vulnerabilities, making AI more secure and robust against misuse. AI penetration testers will simulate attacks on machine learning systems, uncovering weaknesses that could otherwise go unnoticed until exploited maliciously.
 
-![AI Hacker](https://github.com/dvonthenen/blog/blob/master/images/2025/rethinking-jobs-when-ai-does-the-thinking/ai-hacker.png?raw=true)
+![AI Hacker](https://davidvonthenen.com/wp-content/uploads/2025/05/ai-hacker.png)
 
 Other professionals might specialize in disrupting foreign AI systems, whether for national defense or corporate security. This requires a deep understanding of sophisticated machine-learning architectures to infiltrate, confuse, or disable these systems, thereby ensuring our own technological and geopolitical safety.
 
@@ -87,7 +87,7 @@ Privacy specialists will also become increasingly essential, helping individuals
 
 The AI-driven economy will undoubtedly transform jobs, shifting value away from pure knowledge roles toward hands-on, problem-solving, and critical-thinking tasks. Rather than displacing humans entirely, AI will reshape our work, emphasizing roles that leverage uniquely human strengths, such as physical skill, creativity, adaptability, and emotional intelligence. Those pure knowledge based roles will disappear, [if it hasn't already](https://fortune.com/2025/03/17/computer-programming-jobs-lowest-1980-ai/).
 
-![Humans Helping Other Humans](https://github.com/dvonthenen/blog/blob/master/images/2025/rethinking-jobs-when-ai-does-the-thinking/humans-winning-and-helping-others.png?raw=true)
+![Humans Helping Other Humans](https://davidvonthenen.com/wp-content/uploads/2025/05/humans-winning-and-helping-others.png)
 
 Both young professionals and adults already in the workforce must adopt a mindset of continuous learning and adaptability. Tech professionals, in particular, need to explore roles beyond traditional coding; embracing jobs that connect technology with human experiences or physical environments. Through proactive preparation and adaptation, we can ensure a balanced, human-centered future in which AI enhances, rather than replaces, our roles and responsibilities.
 
