@@ -29,7 +29,9 @@ The world has gone digital, and so have our conversations. With over 1.5 billion
 At the <a href="https://www.rtc-conference.com/2024/">2024 RTC Conference at Illinois Tech</a>, we'll dive into the cutting-edge world of Natural Language Processing (NLP) and data mining to decode this digital chatter. I will be presenting a session titled <a href="https://bit.ly/4gAObM5">Building Multiple Natural Language Processing Models to Work In Concert Together</a> on October 8, 2024, at 4:15 PM. If you're passionate about how AI and machine learning are transforming industries like healthcare, don’t miss it!
 
 Here is a brief rundown on what I will be covering during the session...
+
 <h3>Breaking Down Conversations</h3>
+
 Data is power, and conversation data is a goldmine waiting to be tapped. In this session, we’ll go step by step through the process of creating and training NLP models that can understand the context and meaning behind messages, whether from video meetings, audio calls, or text conversations.
 
 It all starts with data. We’ll begin by learning how to collect raw conversation data from various sources, such as WebRTC applications like <a href="https://livekit.io/">LiveKit</a>. Once collected, the next challenge is preprocessing this data. We’ll explore strategies to clean and prepare text for machine learning pipelines, including noise reduction and tokenization.
@@ -39,7 +41,9 @@ It all starts with data. We’ll begin by learning how to collect raw conversati
 Once the data is ready, we’ll develop machine learning models to extract critical information to classify sentences and perform named entity recognition. We’ll cover how to build these models using Python, PyTorch, and other state-of-the-art NLP tools.
 
 This session will highlight live demos, where I’ll showcase how to deploy and integrate these models into workflows for practical applications, such as customer service analysis, social media trend detection, and even compliance monitoring.
+
 <h3>Why Attend This Session?</h3>
+
 At the end of the session, you’ll walk away with more than just theory - you’ll get access to working code and resources that you can immediately apply to your projects. Whether you’re building conversation analytics tools for a social network or mining customer feedback from virtual meetings, this session is designed to provide actionable takeaways. By understanding how to train NLP models to analyze conversations, you can transform raw data into valuable insights for your organization.
 
 —
