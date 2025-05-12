@@ -35,7 +35,27 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong><u><a name="deepgram">DigitalOcean</a></u></strong><a name="deepgram">&nbsp;(Nov 2024 - Present) - Senior AI/ML Developer Advocate</a></p>
+<p><strong><u><a name="digitalocean">NetApp</a></u></strong><a name="netapp">&nbsp;(May 2025 - Present) - Senior AI/ML Engineer/DelRel, Office of the CTO</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Senior AI/ML Developer Advocate in the Office of the CTO, driving innovation and adoption of AI-driven storage and data management solutions through strategic customer engagement, thought leadership, and technical enablement. Responsibilities include developing customer-facing Proof-of-Concepts, delivering impactful industry presentations, and fostering community growth around advanced AI/ML storage initiatives.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Conference Presentations:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>     o   Workshop: Adaptive RAG Systems with Knowledge Graphs: Building Reinforcement-Learning-Driven AI Applications - <a href="https://odsc.com/speakers/adaptive-rag-systems-with-knowledge-graphs-building-reinforcement-learning-driven-ai-applications/" title="">Open Data Science Conference (ODSC) East, May 2025</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>     o   The Rise of Agentic AI: Harnessing Open Source for Dynamic Decision-Making - <a href="https://www.devoxx.co.uk/speaker/?id=9501" title="">Devoxx UK 2025</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><u><a name="digitalocean">DigitalOcean</a></u></strong><a name="deepgram">&nbsp;(Nov 2024 - Apr 2025) - Senior AI/ML Developer Advocate II</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -55,15 +75,7 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>     o   Workshop: Adaptive RAG Systems with Knowledge Graphs: Building Reinforcement-Learning-Driven AI Applications - <a href="https://odsc.com/speakers/adaptive-rag-systems-with-knowledge-graphs-building-reinforcement-learning-driven-ai-applications/" title="">Open Data Science Conference (ODSC) East, May 2025</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p>     o   Training Multi-Modal ML Classification Models for Real-Time Detection of Debilitating Disease - <a href="https://www.socallinuxexpo.org/scale/22x/presentations/training-multi-modal-ml-classification-models-real-time-detection" title="">Southern California Linux Expo (SCaLE) 22x, March 2025</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>     o   The Rise of Agentic AI: Harnessing Open Source for Dynamic Decision-Making - <a href="https://www.devoxx.co.uk/speaker/?id=9501" title="">Devoxx UK 2025</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
