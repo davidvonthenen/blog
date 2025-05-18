@@ -22,7 +22,7 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - WeAreDevelopers World Congeress, July 2025</li>
+<li>Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - WeAreDevelopers World Congress, July 2025</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -34,11 +34,11 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>The Rise of Agentic AI: Harnessing Open Source for Dynamic Decision-Making - <a href="https://www.devoxx.co.uk/talk?id=10994" target="_blank">Devoxx UK 2025</a></li>
+<li><a href="https://youtu.be/umurTAD4x2Y" target="_blank">The Rise of Agentic AI: Harnessing Open Source for Dynamic Decision-Making</a> - <a href="https://www.devoxx.co.uk/talk?id=10994" target="_blank">Devoxx UK 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Explaining the Unexplainable: Python Tools for AI Transparency using Captum - <a href="https://mobile.devoxx.com/events/devoxxfr2025/talks/6651/details" target="_blank">Devoxx France 2025</a></li>
+<li><a href="https://youtu.be/umurTAD4x2Y" target="_blank">Explaining the Unexplainable: Python Tools for AI Transparency using Captum</a> - <a href="https://mobile.devoxx.com/events/devoxxfr2025/talks/6651/details" target="_blank">Devoxx France 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
