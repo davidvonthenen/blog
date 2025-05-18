@@ -34,11 +34,11 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://youtu.be/umurTAD4x2Y" target="_blank">The Rise of Agentic AI: Harnessing Open Source for Dynamic Decision-Making</a> - <a href="https://www.devoxx.co.uk/talk?id=10994" target="_blank">Devoxx UK 2025</a></li>
+<li><a href="https://youtu.be/zYFYqXh1UGg" target="_blank">The Rise of Agentic AI: Harnessing Open Source for Dynamic Decision-Making</a> - <a href="https://www.devoxx.co.uk/talk?id=10994" target="_blank">Devoxx UK 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://youtu.be/umurTAD4x2Y" target="_blank">Explaining the Unexplainable: Python Tools for AI Transparency using Captum</a> - <a href="https://mobile.devoxx.com/events/devoxxfr2025/talks/6651/details" target="_blank">Devoxx France 2025</a></li>
+<li><a href="https://youtu.be/DW1GWoBYZbw" target="_blank">Explaining the Unexplainable: Python Tools for AI Transparency using Captum</a> - <a href="https://mobile.devoxx.com/events/devoxxfr2025/talks/6651/details" target="_blank">Devoxx France 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
