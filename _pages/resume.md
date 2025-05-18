@@ -15,11 +15,11 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Expert AI/ML Engineer and Educator Crafting Machine Learning Systems and Scalable Architectures</p>
+<p class="has-text-align-center">AI/ML Engineer | Keynote Speaker | Building Scalable ML Architectures & AI Solutions | Python, Go, C++</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">E-mail:&nbsp;<strong>davidvonthenen [ at ] gmail.com</strong>&nbsp;/ GitHub:&nbsp;<a href="https://github.com/dvonthenen">dvonthenen</a><strong></strong></p>
+<p class="has-text-align-center">E-mail:&nbsp;<strong>davidvonthenen [ at ] gmail.com</strong>&nbsp;/ LinkTree:&nbsp;<a href="https://linktr.ee/davidvonthenen">linktr.ee/davidvonthenen</a><strong></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -27,7 +27,8 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Proven technical leader with managerial experience for teams large and small, leveraging decades of expertise in Artificial Intelligence, Machine Learning, cloud-native architectures, storage architecture, distributed network applications, solutions engineering, and developer advocacy to drive adoption and foster strong online presences.&nbsp;</p>
+<p>As an AI/ML engineer with a strong background in building scalable architectures, I specialize in creating innovative solutions that leverage the power of machine learning for real-world applications. I am passionate about developing advanced conversational AI systems and scalable, cloud-native platforms that make a tangible impact on the way people interact with technology. My expertise spans multiple programming languages, including Python, Golang, and C++, and I thrive in roles that combine technical depth with strategic vision.&nbsp;</p>
+</p>I’ve driven significant platform growth by working directly with customers to build cutting-edge AI solutions. My work often involves architecting solutions tailored to customer needs, from on-prem to hybrid cloud deployments. Additionally, I am actively engaged in the AI/ML community, frequently sharing insights at industry conferences and through technical content that empowers others to harness the potential of AI.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -39,7 +40,7 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Senior AI/ML Developer Advocate in the Office of the CTO, driving innovation and adoption of AI-driven storage and data management solutions through strategic customer engagement, thought leadership, and technical enablement. Responsibilities include developing customer-facing Proof-of-Concepts, delivering impactful industry presentations, and fostering community growth around advanced AI/ML storage initiatives.</p>
+<p>Senior AI/ML Engineer in the Office of the CTO, driving innovation and adoption of AI Solutions, with an emphasis on storage and data management, through strategic customer engagement, thought leadership, and technical enablement. Responsibilities include developing customer-facing Proof-of-Concepts, delivering impactful industry presentations, and fostering community growth around advanced AI/ML initiatives.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -52,6 +53,10 @@ categories: [ ]
 
 <!-- wp:paragraph -->
 <p>     o   The Rise of Agentic AI: Harnessing Open Source for Dynamic Decision-Making - <a href="https://www.devoxx.co.uk/speaker/?id=9501" title="">Devoxx UK 2025</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For a comprehensive list of presentations and workshops, visit <strong>https://davidvonthenen.com/talks</strong>.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -459,43 +464,51 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a name="ai"></a><a name="ml"></a><a name="aiml">Artificial Intelligence / Machine Learning:</a></p>
+<p><a name="ai"></a><a name="ml"></a><a name="aiml">AI/ML Frameworks & Techniques:</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>PyTorch,&nbsp;Keras, Transformers,&nbsp;Generative AI,&nbsp;NVIDIA CUDA, Pandas,&nbsp;Large Language Models (LLMs), ChatGPT, OpenAI APIs,&nbsp;LLaMA&nbsp;by Meta, Autonomous Generative AI Agents, Pinecone, Chroma, LangChain (Python, Go)</p>
+<p>PyTorch, TensorFlow, Hugging Face Transformers, LangChain, Reinforcement Learning, Captum (Explainable AI), scikit-learn, Pandas, NumPy, CUDA, Adaptive Retrieval-Augmented Generation (RAG), Multi-modal AI, Graph Neural Networks (GNN), Model Optimization (Quantization, Fine-Tuning)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a name="languages">Programming Languages/Technologies:</a></p>
+<p><a name="languages">Large Language Models (LLMs) & Generative AI:</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Go(lang), Python, C/C++, Java, JavaScript, Cloud Native Architectures,&nbsp;open source&nbsp;software development, Cross-platform development (Linux, Windows, MacOS), gRPC, REST APIs, SQL (MariaDB, PostgreSQL, MSSQL), NoSQL (Elastic Search, Cassandra), Graph DBs (Neo4j), CI/CD (using Jenkins, Travis, GitHub Actions), Security and Encryption, GitHub/GitLab, GNU Make, Maven, RPM/DEB creation, PowerShell, bash, git, Mercurial, Perforce</p>
+<p>OpenAI, Meta LLaMA/LlamaCpp, Google Gemini, Anthropic Claude, Falcon, Mistral, Vector Embeddings, Model Context Protocol (MCP), Agent-to-Agent (A2A), Knowledge Graph Integration (Neo4j, Cypher), Semantic Search</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a name="containers">Container and Cloud:</a></p>
+<p><a name="containers">Programming Languages:</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kubernetes, Docker, Prometheus, Jaeger,&nbsp;OpenTelemetry, creating Helm Charts, container Image creation,&nbsp;etcd,&nbsp;AWS Lambda,&nbsp;Amazon EKS,&nbsp;Azure Kubernetes Service (AKS), EC2, S3, CloudFormation templates, IAM, AWS CLI, Go AWS SDK; Google Compute Engine, GKE, Compute Engine APIs in Go</p>
+<p>Python, Go, C/C++, Java, Rust, JavaScript... Been known to program in a bunch of other languages, but prefer not to as a principle part of my job =)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a name="virtualization">Virtualization:</a></p>
+<p><a name="virtualization">Data Management & Databases:</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>VMware vSphere Environments, Hyper-V, KVM, Xen, Aria/vRealize&nbsp;Suite, Aria Operations for Logs (formerly&nbsp;vRealize&nbsp;Log Insight), VSAN, Virtual Volumes,&nbsp;vCloud&nbsp;Director Environments, HA Clusters, Storage DRS, Fault-Tolerant VMs,&nbsp;vStorage&nbsp;APIs for Data Protection (VADP), vSphere SDK, Virtual Disk Development Kit (VDDK), VMware Mount API,&nbsp;PowerCLI</p>
+<p>SQL, NoSQL, Neo4j Graph Databases, OpenSearch, ElasticSearch, Redis, Vector Databases (Pinecone, FAISS)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a name="devrel">Developer Advocacy &amp; Evangelism:</a></p>
+<p><a name="virtualization">Cloud & Virtualization:</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Brand Creation, Executing Marketing Campaigns, Managing LinkedIn Company Page and Company Twitter, Creating/Publishing Marketing Videos (for Corporate Presentations, Training, Community Meetings, Office Hours, Demonstrations), Authoring Blog Posts (for messaging and technical content), Hootsuite,&nbsp;SocialPilot, URL and UTM Tracking, Adobe Cloud Suite (using After Effects, Illustrator, Photoshop) for Video Editing,&nbsp;Screenflow, OBS Studio,&nbsp;Asciinema</p>
+<p>AWS, Azure, Google Cloud, DigitalOcean, Docker, Kubernetes, VMware vSphere, Linux Containers (LXC)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a name="devrel">Developer Relations & Community:</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Technical Evangelism, Developer Advocacy, Workshop & Conference Keynote Speaker, Open-Source Contributor, Technical Writing & Content Creation, Social Media & Brand Engagement, Technical Marketing</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
