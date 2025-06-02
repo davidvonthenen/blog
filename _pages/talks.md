@@ -18,11 +18,23 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
-<li>API Security for the AI Era: Detecting and Preventing Adversarial Manipulation - API World 2025, Sept 2025</li>
+<li>TinyML Meets PyTorch: Deploying AI at the Edge with Python Using ExecuTorch - All Things Open 2025, October 2025</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - WeAreDevelopers World Congress, July 2025</li>
+<li>API Security for the AI Era: Detecting and Preventing Adversarial Manipulation - API World 2025, September 2025</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Sarcastically Speaking: Unlocking Multi-modal Sentiment Analysis with NLP and Facial Expressions - AI_dev: Open Source GenAI & ML Summit Europe 2025, August 2025</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - WeAreDevelopers World Congeress, July 2025</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - DevBcn, July 2025</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
