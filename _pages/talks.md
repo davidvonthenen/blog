@@ -18,27 +18,27 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
-<li>TinyML Meets PyTorch: Deploying AI at the Edge with Python Using ExecuTorch - All Things Open 2025, October 2025</li>
+<li>TinyML Meets PyTorch: Deploying AI at the Edge with Python Using ExecuTorch - <a href="https://2025.allthingsopen.org/speakers/david-vonthenen" target="_blank">All Things Open 2025, October 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>API Security for the AI Era: Detecting and Preventing Adversarial Manipulation - API World 2025, September 2025</li>
+<li>API Security for the AI Era: Detecting and Preventing Adversarial Manipulation - <a href="https://apiworldcloudxdataweek2025.sched.com/event/24c56/virtual-pro-workshop-api-api-security-for-the-ai-era-detecting-and-preventing-adversarial-manipulation" target="_blank">API World 2025, September 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Sarcastically Speaking: Unlocking Multi-modal Sentiment Analysis with NLP and Facial Expressions - AI_dev: Open Source GenAI & ML Summit Europe 2025, August 2025</li>
+<li>Sarcastically Speaking: Unlocking Multi-modal Sentiment Analysis with NLP and Facial Expressions - <a href="https://aideveu2025.sched.com/event/25Tvr/technical-workshop-sarcastically-speaking-unlocking-multi-modal-sentiment-analysis-with-nlp-and-facial-expressions-david-vonthenen-digitalocean" target="_blank">AI_dev: Open Source GenAI & ML Summit Europe 2025, August 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - WeAreDevelopers World Congeress, July 2025</li>
+<li>Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - <a href="https://www.wearedevelopers.com/world-congress" target="_blank">WeAreDevelopers World Congeress, July 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - DevBcn, July 2025</li>
+<li>Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - <a href="https://www.devbcn.com/talk/840977" target="_blank">DevBcn, July 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>The Future of UI/UX: AI-Generated Interfaces Tailored Just-in-Time - RenderATL, June 2025</li>
+<li>The Future of UI/UX: AI-Generated Interfaces Tailored Just-in-Time - <a href="https://renderatl-2025.sessionize.com/session/812242" target="_blank">RenderATL, June 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
