@@ -11,7 +11,7 @@ tags: [ ]
 categories: [ ]
 ---
 <!-- wp:paragraph -->
-<p><strong>David&nbsp;vonThenen</strong></p>
+<p><strong>David vonThenen</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -27,8 +27,7 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As an AI/ML engineer with a strong background in building scalable architectures, I specialize in creating innovative solutions that leverage the power of machine learning for real-world applications. I am passionate about developing advanced conversational AI systems and scalable, cloud-native platforms that make a tangible impact on the way people interact with technology. My expertise spans multiple programming languages, including Python, Golang, and C++, and I thrive in roles that combine technical depth with strategic vision.&nbsp;</p>
-</p>I’ve driven significant platform growth by working directly with customers to build cutting-edge AI solutions. My work often involves architecting solutions tailored to customer needs, from on-prem to hybrid cloud deployments. Additionally, I am actively engaged in the AI/ML community, frequently sharing insights at industry conferences and through technical content that empowers others to harness the potential of AI.&nbsp;</p>
+<p>Proven technical leader with over a decade of experience in Artificial Intelligence, Machine Learning, cloud-native architectures, and developer advocacy. I excel at creating scalable AI solutions that leverage multi-modal data for innovative applications, from healthcare diagnostics to conversational AI. A highly skilled communicator, I frequently present on topics related to AI and ML at industry events and have a passion for expanding digital footprints and online communities.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -36,15 +35,29 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong><u><a name="digitalocean">NetApp</a></u></strong><a name="netapp">&nbsp;(May 2025 - Present) - Senior AI/ML Engineer/DelRel, Office of the CTO</a></p>
+<p><strong><u><a name="netapp">NetApp</a></u></strong><a name="netapp">&nbsp;(April 2025 - Present) - Senior AI/ML Engineer/DelRel, Office of the CTO</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Senior AI/ML Engineer in the Office of the CTO, driving innovation and adoption of AI Solutions, with an emphasis on storage and data management, through strategic customer engagement, thought leadership, and technical enablement. Responsibilities include developing customer-facing Proof-of-Concepts, delivering impactful industry presentations, and fostering community growth around advanced AI/ML initiatives.</p>
+<p>Senior AI Engineer/Developer Advocate in the Office of the CTO, driving innovation and adoption of AI-driven storage and data management solutions through strategic customer engagement, thought leadership, and technical enablement. Responsibilities include developing customer-facing Proof of Concepts, delivering impactful industry presentations, and fostering community growth around advanced AI/ML initiatives.</p>
 <!-- /wp:paragraph -->
+
+<p><strong>Designed and implemented an open-source Graph-based Retrieval-Augmented Generation (RAG) reference architecture, creating a new revenue stream focused on transparent, auditable AI solutions. Focus on Open Source offering with an upgrade path into a scalable Enterprise solution.</strong></p>
 
 <!-- wp:paragraph -->
 <p><strong>Conference Presentations:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>     o   Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - <a href="https://www.wearedevelopers.com/world-congress" target="_blank">WeAreDevelopers World Congeress, July 2025</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>     o   Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - <a href="https://www.devbcn.com/talk/840977" target="_blank">DevBcn, July 2025</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>     o   The Future of UI/UX: AI-Generated Interfaces Tailored Just-in-Time - <a href="https://renderatl-2025.sessionize.com/session/812242" target="_blank">RenderATL, June 2025</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -64,7 +77,7 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Leading strategic initiatives to advance cloud platform adoption and drive AI/ML-focused revenue growth through customer-centric solutions and community engagement. This encompasses diverse duties from building and training AI/ML models for customer Proof-of-Concept projects, presenting sessions/talks at industry conferences, running workshop events in a teaching capacity, accountable for meeting revenue goals related to AI/ML initiatives, and fostering developer, end-user, and community growth.&nbsp;</p>
+<p>Leading strategic initiatives to advance cloud platform adoption and drive AI/ML-focused revenue growth through customer-centric solutions and community engagement. This encompasses diverse duties, including building and training AI/ML models for customer Proof-of-Concept projects, presenting sessions and talks at industry conferences, running workshop events in a teaching capacity, being accountable for meeting revenue goals related to AI/ML initiatives, and fostering growth among developers, end-users, and the community.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -72,11 +85,11 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>     o   Crack the AI Black Box: Practical Techniques for Explainable AI - <a href="https://www.nvidia.com/gtc/session-catalog/?search=S74147#/session/1734135317253001NfAh" title="">NVIDIA GTC, March 2025</a></p>
+<p>     o    <a href="https://youtu.be/umurTAD4x2Y" target="_blank">Crack the AI Black Box: Practical Techniques for Explainable AI</a> - <a href="https://www.nvidia.com/gtc/session-catalog/?search=S74147#/session/1734135317253001NfAh" title="">NVIDIA GTC, March 2025</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>     o   <strong>Keynote:</strong> The Sound of Innovation: Why Voice Cloning Will Redefine Human-Computer Interaction - <a href="https://developerweek2025.sched.com/event/1tz7d/keynote-digitalocean-the-sound-of-innovation-why-voice-cloning-will-redefine-human-computer-interaction" title="">Developer Week, Feb 2025</a></p>
+<p>     o   <strong>Keynote:</strong> <a href="https://youtu.be/WkQnqkHrzEQ" target="_blank">The Sound of Innovation: Why Voice Cloning Will Redefine Human-Computer Interaction</a> - <a href="https://developerweek2025.sched.com/event/1tz7d/keynote-digitalocean-the-sound-of-innovation-why-voice-cloning-will-redefine-human-computer-interaction" title="">Developer Week, Feb 2025</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -84,15 +97,15 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>     o   Explaining the Unexplainable: Python Tools for AI Transparency using Captum - Devoxx France</p>
+<p>     o   <a href="https://youtu.be/DW1GWoBYZbw" target="_blank">Explaining the Unexplainable: Python Tools for AI Transparency using </a>> - <a href="https://www.devoxx.fr/agenda-2025/speaker/david-vonthenen/" target="_blank">Devoxx France</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>     o   Leveraging Knowledge Graphs for RAG: A Smarter Approach to Contextual AI Applications - <a href="https://allthingsopen.ai/sessions/leveraging-knowledge-graphs-for-rag-a-smarter-approach-to-contextual-ai-applications" title="">All Things Open AI, March 2025</a></p>
+<p>     o   <a href="https://youtu.be/G_4O6mhk208" target="_blank">Leveraging Knowledge Graphs for RAG: A Smarter Approach to Contextual AI Applications</a> - <a href="https://allthingsopen.ai/sessions/leveraging-knowledge-graphs-for-rag-a-smarter-approach-to-contextual-ai-applications" title="">All Things Open AI, March 2025</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>     o   Navigating the Edge-Cloud Bridge: Building Resource Optimized IoT/Edge Assistants with LLMs - <a href="https://developerweek2025.sched.com/event/1tz6p/open-session-navigating-the-edge-cloud-bridge-building-resource-optimized-iotedge-assistants-with-llms" title="">Developer Week, Feb 2025</a></p>
+<p>     o   <a href="https://youtu.be/mAvCaSFuLZk" target="_blank">Navigating the Edge-Cloud Bridge: Building Resource Optimized IoT/Edge Assistants with LLMs</a> - <a href="https://developerweek2025.sched.com/event/1tz6p/open-session-navigating-the-edge-cloud-bridge-building-resource-optimized-iotedge-assistants-with-llms" title="">Developer Week, Feb 2025</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -108,7 +121,11 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong><u><a name="deepgram">Deepgram</a></u></strong><a name="deepgram"> (Oct 2023 - Nov 2024) - Staff Engineer / Developer Advocate</a><br><br> Staff Software Engineer tasked with forward-looking initiatives and guiding strategic direction to increase platform adoption and sales growth. This encompasses diverse duties, from crafting SDKs, facilitating software integrations and solutions, offering technical insights for the developer ecosystem, writing blog articles and instructional content, and helping with the company's marketing campaigns. </p>
+<p><strong><u><a name="deepgram">Deepgram</a></u></strong><a name="deepgram"> (Oct 2023 - Nov 2024) - Staff Engineer / Developer Advocate</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Staff Software Engineer tasked with forward-looking initiatives and guiding strategic direction to increase platform adoption and sales growth. This encompasses diverse duties, including crafting SDKs, facilitating customer integrations and solutions, providing technical insights for the developer ecosystem, writing blog articles and instructional content, and assisting with the company's marketing campaigns.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -196,7 +213,7 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Hired to create the developer advocacy program to provide a blueprint for the company. This included creating SDKs, developing software integrations, providing technical expertise in customer sales meetings, authoring blog posts and training material, and contributing to the company's social media/marketing campaigns.</p>
+<p>Hired to create the developer advocacy program to provide a blueprint for the company. This included creating SDKs, developing software integrations, providing technical expertise during customer sales meetings, authoring blog posts and training materials, and contributing to the company's social media and marketing campaigns.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
