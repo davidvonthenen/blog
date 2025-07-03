@@ -21,7 +21,7 @@ categories:
 ---
 NVIDIA's GPU Technology Conference (GTC) just wrapped up in Paris, and GTC is often dubbed the "Super Bowl of AI". I was fortunate enough to speak virtually on the topic of Explainable AI and attend the North American version in San Jose this year. I was impressed by the quality of the sessions and the breadth of subject matter covered. You can geek out on the cutting edge of AI techniques to discover some of the amazing things happening today, such as AI-assisted healthcare.
 
-![NVIDIA GTC Logo][https://davidvonthenen.com/wp-content/uploads/2025/07/nvidia_gtc_horizontal.png]
+![NVIDIA GTC Logo](https://davidvonthenen.com/wp-content/uploads/2025/07/nvidia_gtc_horizontal.png)
 
 Part of my day-to-day job is selecting my own speaking sessions at AI/ML conferences like GTC. Because of this, I thought it would be worthwhile to examine what the NVIDIA GTC selection committee considers talks worthy of being presented on stage. GTC might be hosted by the world's leading GPU maker, but you'd be mistaken to think that it's just about the hardware they build. In reality, the overwhelming majority of sessions focus on software, AI solutions, and what you can **do** with NVIDIA's technology... not the chips themselves. This isn't just my opinion; it's supported by the numbers and the way GTC is organized. That's the focus of this blog post here... let's dive right in.
 
@@ -29,7 +29,7 @@ Part of my day-to-day job is selecting my own speaking sessions at AI/ML confere
 
 NVIDIA is no longer just a chipmaker cranking out GPUs. The company has been transforming into a full-stack AI platform provider. As [one observer put it](https://www.ibm.com/think/news/nvidia-gtc-future-enterprise-ai#:~:text=From%20open,%E2%80%9D), NVIDIA went "from being a hardware company" to also wanting to be a generative AI software company. This shift is evident at GTC. The conference features hundreds of sessions across AI domains – from computer vision and generative AI to robotics and healthcare – showcasing real-world applications and breakthroughs. In fact, GTC 2025 boasted over 1,000 sessions with 2,000+ speakers, covering everything from large language models to cloud computing and scientific discovery. The focus is clear: it's on how NVIDIA's platform is used to solve tough problems and transform industries, rather than on plain product pitches.
 
-![Problem Solving][https://davidvonthenen.com/wp-content/uploads/2025/07/problem_solving.png]
+![Problem Solving](https://davidvonthenen.com/wp-content/uploads/2025/07/problem_solving.png)
 
 This approach makes sense. People attend GTC to learn and be inspired by what's possible with AI. They want to hear how a researcher used GPUs to decode human genomes faster, or how a startup is deploying AI at the edge in hospitals… not a sales presentation about specs or cloud capabilities. NVIDIA's own messaging around GTC highlights "breakthroughs happening now" and how AI is "**powering the everyday brands that shape people's lives**" across various industries. The underlying hardware is crucial, but it's the enabler, not the star of the show.
 
@@ -59,7 +59,7 @@ I took a deep dive into the latest GTC session catalog and categorized the typic
 
 In plain terms, the "Generative AI" track alone had over 80 sessions, reflecting the huge interest in what people are building with large language models and AI creativity. "Simulation/Modeling/Design" was another big track with dozens of sessions. Traditional AI application areas, such as vision, NLP, and data science, collectively accounted for many talks as well. These are the kinds of sessions where speakers share research results, developer tips, and success stories using NVIDIA's software stacks and GPUs.
 
-![Pay-to-Play][https://davidvonthenen.com/wp-content/uploads/2025/07/what-is-pay-to-play.png]
+![Pay-to-Play](https://davidvonthenen.com/wp-content/uploads/2025/07/what-is-pay-to-play.png)
 
 Notably, **none** of the talks in Data Science, Vision, NLP, Edge, or MLOps were paid promotional talks… they were all merit-based content. The same was true for the vast majority of Generative AI and Simulation track talks (over 90% of those were non-sponsored content). This means the speakers earned their spot by having something interesting to say, not by buying a slot.
 
@@ -69,7 +69,7 @@ Contrast that with the Cloud and Hardware categories. The Cloud track (covering 
 
 If a conference track has a high percentage of sponsored talks, it's a sign that the organizers expect those proposals to be salesy or promotional in nature. NVIDIA knows that a talk titled "Buy Our Cloud GPU Service!" isn't what most attendees are eager to hear in any kind of session. The non-tech equivalent of this would be walking into a room only to find out you are trapped listening to a pitch to buy a timeshare in the Bahamas or something.
 
-![Not a Timeshare][https://davidvonthenen.com/wp-content/uploads/2025/07/oh-no-mam.jpg]
+![Not a Timeshare](https://davidvonthenen.com/wp-content/uploads/2025/07/oh-no-mam.jpg)
 
 By comparison, a talk titled "How We Optimized Healthcare NLP Models on GPUs in the Cloud" is much more appealing… *if* it focuses on the solution and not just a particular product. GTC organizers seem to allow the more promotional talks a space at the table only if the presenters pay for the privilege (through sponsorship). This keeps the main content tracks filled with talks that are interesting to the audience on technical or innovative merits, and pushes anything overtly commercial into clearly marked sponsored slots.
 
@@ -83,7 +83,7 @@ NVIDIA GTC sessions are meant to **educate, inspire, and enable** the audience o
 
 This alignment with open source is no coincidence. The **open source community thrives on knowledge-sharing** and collaboration, not on sales pitches. GTC, in spirit, tries to cultivate that same vibe. Attendees should walk away with new ideas, sample code, or a GitHub repo to check out, and a sense of *possibility*. They shouldn't feel like they just sat through a commercial.
 
-![Knowledge Sharing][https://davidvonthenen.com/wp-content/uploads/2025/07/knowledge-sharing.png]
+![Knowledge Sharing](https://davidvonthenen.com/wp-content/uploads/2025/07/knowledge-sharing.png)
 
 NVIDIA's own conference description emphasizes how AI is transforming everything from healthcare to automotive to finance… again focusing on applications and impact. As a GTC attendee myself, I've noticed that the energy is much higher in sessions where the speaker is teaching something or demoing a breakthrough. To be fair, even the sponsored talks can contain useful info... but only if the speaker remembers to focus on *how* to solve problems using their tech, rather than just what their tech does.
 
