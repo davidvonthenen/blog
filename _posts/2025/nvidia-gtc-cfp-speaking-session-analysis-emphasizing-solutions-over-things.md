@@ -1,14 +1,19 @@
 ---
-post_title: 'NVIDIA GTC: CFP Speaking Session Analysis: Emphasizing Solutions Over "Things"'
+ID: 370
+post_title: 'NVIDIA GTC: CFP Speaking Session Analysis: Emphasizing Solutions Over &#8220;Things&#8221;'
+post_name: >
+  nvidia-gtc-cfp-speaking-session-analysis-emphasizing-solutions-over-things
+author: David vonThenen
+post_date: 2025-07-03 06:04:57
 layout: post
+link: >
+  https://davidvonthenen.com/2025/07/03/nvidia-gtc-cfp-speaking-session-analysis-emphasizing-solutions-over-things/
 published: true
-author: david
 tags:
-    - Test Tag
+  - Test Tag
 categories:
-    - Test Cat
+  - Test Cat
 ---
-
 NVIDIA's GPU Technology Conference (GTC) just wrapped up in Paris, and GTC is often dubbed the "Super Bowl of AI". I was fortunate enough to speak virtually on the topic of Explainable AI and attend the North American version in San Jose this year. I was impressed by the quality of the sessions and the breadth of subject matter covered. You can geek out on the cutting edge of AI techniques to discover some of the amazing things happening today, such as AI-assisted healthcare.
 
 ![NVIDIA GTC Logo][https://davidvonthenen.com/wp-content/uploads/2025/07/nvidia_gtc_horizontal.png]
