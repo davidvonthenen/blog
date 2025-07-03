@@ -13,7 +13,8 @@ tags:
   - AI
   - Artificial Intelligence
   - Conferences
-  - Machin
+  - Machine Learning
+  - ML
 categories:
   - AI/ML
   - Conferences
