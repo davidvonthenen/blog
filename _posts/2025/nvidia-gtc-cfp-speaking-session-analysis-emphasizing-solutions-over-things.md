@@ -9,7 +9,11 @@ layout: post
 link: >
   https://davidvonthenen.com/2025/07/03/nvidia-gtc-cfp-speaking-session-analysis-emphasizing-solutions-over-things/
 published: true
-tags: [ ]
+tags:
+  - AI
+  - Artificial Intelligence
+  - Conferences
+  - Machin
 categories:
   - AI/ML
   - Conferences
