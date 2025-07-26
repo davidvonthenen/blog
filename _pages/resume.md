@@ -113,11 +113,11 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Workshop:</strong></p>
+<p><strong>Workshop(s):</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>     o   Generative AI Workshop: Customer-facing event to provide technical deep-dive instruction, guided walkthrough, and working session to drive adoption for the Retrieval-Augmented Generation (RAG) product. The session is geared towards a zero-to-production in under 3 hours, solving customer-specific use cases. </p>
+<p>     o   Generative AI Workshop: Customer-facing event to provide technical deep-dive instruction, guided walkthrough, and working session to drive adoption for the Retrieval-Augmented Generation (RAG) product. The session is geared towards a zero-to-production in under 3 hours, solving customer-specific use cases.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -153,7 +153,7 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>*</strong> Accountable for expanding digital footprint, actively engaging in discussions within the conversational AI and generative AI sectors. Delivering presentations at numerous conferences focused on conversation intelligence and Generative AI, such as:</p>>
+<p><strong>*</strong> Accountable for expanding digital footprint, actively engaging in discussions within the conversational AI and generative AI sectors. Delivering presentations at numerous conferences focused on conversation intelligence and Generative AI, such as:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
