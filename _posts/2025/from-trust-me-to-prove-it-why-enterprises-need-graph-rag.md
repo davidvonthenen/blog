@@ -1,16 +1,22 @@
 ---
-post_title: 'From "Trust Me" to "Prove It": Why Enterprises Need Graph RAG'
+ID: 378
+post_title: 'From &#8220;Trust Me&#8221; to &#8220;Prove It&#8221;: Why Enterprises Need Graph RAG'
+post_name: >
+  from-trust-me-to-prove-it-why-enterprises-need-graph-rag
+author: David vonThenen
+post_date: 2025-08-20 06:55:37
 layout: post
+link: >
+  https://davidvonthenen.com/2025/08/20/from-trust-me-to-prove-it-why-enterprises-need-graph-rag/
 published: true
-author: david
 tags:
-    - Artificial Intelligence
-    - AI
-    - Machine Learning
-    - ML
-    - 
+  - AI
+  - Apache Mesos
+  - Artificial Intelligence
+  - Machine Learning
+  - ML
 categories:
-    - AI/ML
+  - AI/ML
 ---
 Enterprises don't need more "vibes-based" answers… they need receipts. Vector-only RAG is great at finding passages that feel right, but when auditors ask who said what, when, and why, cosine similarity can't testify. If your world runs on policies, provenance, and repeatability, you can't ship a black box and call it a day.
 
