@@ -23,4 +23,4 @@ We’ve all heard the phrase "treat infrastructure as code," but what if I told 
 
 As regulators increasingly scrutinize AI applications (hello, EU AI Act!), understanding exactly what changed in your models is no longer optional—it's essential. Whether you’re a data scientist tired of explaining mysterious drifts or an AI stakeholder who needs to keep auditors happy (and lawsuits at bay), this piece aligns perfectly with today’s urgent conversations around AI governance and compliance. Imagine confidently pinpointing every decision to a specific data commit—no more guessing, just receipts.
 
-Dive into the full article here: [https://bit.ly/4hj0wnY](https://bit.ly/4hj0wnY)
+Dive into the full article here: [https://bit.ly/4ncqnRa](https://bit.ly/4ncqnRa)
