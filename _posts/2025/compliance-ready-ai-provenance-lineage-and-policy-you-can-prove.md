@@ -1,15 +1,21 @@
 ---
+ID: 381
 post_title: 'Compliance-Ready AI: Provenance, Lineage, and Policy You Can Prove'
+post_name: >
+  compliance-ready-ai-provenance-lineage-and-policy-you-can-prove
+author: David vonThenen
+post_date: 2025-09-07 20:32:56
 layout: post
+link: >
+  https://davidvonthenen.com/2025/09/07/compliance-ready-ai-provenance-lineage-and-policy-you-can-prove/
 published: true
-author: david
 tags:
-    - ai
-    - artificial-intelligence
-    - machine-learning
-    - ml
+  - AI
+  - Artificial Intelligence
+  - Machine Learning
+  - ML
 categories:
-    - artificial-intelligence-machine-learning
+  - artificial-intelligence-machine-learning
 ---
 We’ve all heard the phrase "treat infrastructure as code," but what if I told you it's time to give your datasets the same respect? In AI and machine learning, tiny shifts in data ripple through models, causing unpredictable behavior that can lead to compliance nightmares. Our latest blog explores a fundamental shift in mindset—treating data like code—showing you how immutable commits, provable lineage, and policy-driven pipelines can transform your AI from opaque magic to transparent, audit-ready solutions.
 
