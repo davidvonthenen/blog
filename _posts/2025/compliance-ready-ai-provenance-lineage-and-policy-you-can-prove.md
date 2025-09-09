@@ -15,7 +15,7 @@ tags:
   - Machine Learning
   - ML
 categories:
-  - artificial-intelligence-machine-learning
+  - AI/ML
 ---
 We’ve all heard the phrase "treat infrastructure as code," but what if I told you it's time to give your datasets the same respect? In AI and machine learning, tiny shifts in data ripple through models, causing unpredictable behavior that can lead to compliance nightmares. Our latest blog explores a fundamental shift in mindset—treating data like code—showing you how immutable commits, provable lineage, and policy-driven pipelines can transform your AI from opaque magic to transparent, audit-ready solutions.
 
