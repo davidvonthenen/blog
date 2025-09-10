@@ -1,17 +1,23 @@
 ---
+ID: 388
 post_title: 'Invisible by Design: Context-Aware Interfaces that Assemble Themselves'
+post_name: >
+  invisible-by-design-context-aware-interfaces-that-assemble-themselves
+author: David vonThenen
+post_date: 2025-09-10 13:19:49
 layout: post
+link: >
+  https://davidvonthenen.com/2025/09/10/invisible-by-design-context-aware-interfaces-that-assemble-themselves/
 published: true
-author: david
 tags:
-    - AI
-    - Artificial Intelligence
-    - Conferences
-    - ML
-    - Machine Learning
+  - AI
+  - Artificial Intelligence
+  - Conferences
+  - Machine Learning
+  - ML
 categories:
-    - AI/ML
-    - Conferences
+  - AI/ML
+  - Conferences
 ---
 UI design is hitting a weird but exciting pivot. Static screens and fixed navigation are giving way to adaptive interfaces that come together in real time... driven by what you're doing, what you like, and where you are. In my [RenderATL](https://www.renderatl.com/) session, [The Future of UI/UX: AI-Generated Interfaces Tailored Just-in-Time](https://bit.ly/44qv0PY), I framed this as Just-in-Time (JIT) UI/UX: interfaces that don't sit around waiting for clicks; they anticipate, compose, and retire elements as your context changes. In an extreme case, think of a shopping app that reconfigures its layout mid-session based on your micro-behaviors, or an IDE that pulls the proper toolchain to the foreground when your cursor hesitates over a gnarly function. The vision isn't science fiction; it's the natural endgame of behavior modeling, on-device inference, and agentic workflows.
 
