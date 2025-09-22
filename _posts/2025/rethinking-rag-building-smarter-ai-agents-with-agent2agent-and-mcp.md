@@ -27,5 +27,5 @@ Dive into the full blog post here: [https://bit.ly/4pAy2e8](https://bit.ly/4pAy2
 
 And if you want to keep the conversation going, I invite you to check out my ODSC session:
 
-📅 Date: Thursday, Oct 30.
+📅 Date: Thursday, Oct 30
 📖 Details here: [https://bit.ly/42AU5HK](https://bit.ly/42AU5HK)
