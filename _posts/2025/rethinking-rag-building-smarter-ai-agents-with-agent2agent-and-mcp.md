@@ -1,15 +1,21 @@
 ---
+ID: 393
 post_title: 'Rethinking RAG: Building Smarter AI Agents with Agent2Agent and MCP'
+post_name: >
+  rethinking-rag-building-smarter-ai-agents-with-agent2agent-and-mcp
+author: David vonThenen
+post_date: 2025-09-22 06:11:33
 layout: post
+link: >
+  https://davidvonthenen.com/2025/09/22/rethinking-rag-building-smarter-ai-agents-with-agent2agent-and-mcp/
 published: true
-author: david
 tags:
-    - AI
-    - Artificial Intelligence
-    - Conferences
+  - AI
+  - Artificial Intelligence
+  - Conferences
 categories:
-    - AI/ML
-    - Conferences
+  - AI/ML
+  - Conferences
 ---
 RAG has been the go-to pattern for making AI smarter, but the way we build and think about agents is changing fast. At ODSC AI West, I'll be leading a workshop on how Agent2Agent and the Model Context Protocol (MCP) shift the conversation from retrieval-first to capability-first. Think of it as moving from giant, monolithic models to modular agents that can hand off tasks, extend themselves, and even act in the real world… all while borrowing practices we know from traditional software engineering.
 
