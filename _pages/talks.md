@@ -18,7 +18,23 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
+<li>Rethinking RAG: How MCP and Multi-Agents Will Transform the Future of Intelligent Search - <a href="https://devoxx.ma/speaker/?id=2701" target="_blank">Devoxx Morocco, November 2025</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Your Kubernetes Playbook at Your Fingertips: Advanced Troubleshooting With MCP, RAG, and K8sgpt - <a href="https://kccncna2025.sched.com/event/27FZ8/your-kubernetes-playbook-at-your-fingertips-advanced-troubleshooting-with-mcp-rag-and-k8sgpt-david-vonthenen-netapp-yash-sharma-digitalocean" target="_blank">KubeCon + Cloud Native Con North America, November 2025</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Rethinking RAG: How MCP andAgent2Agent Will Transform the Future of Intelligent Search - <a href="https://odsc.ai/speakers-portfolio/rethinking-rag-how-mcp-and-agent2agent-will-transform-the-future-of-intelligent-search/" target="_blank">Open Data Science Conference (ODSC) AI West, October 2025</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>TinyML Meets PyTorch: Deploying AI at the Edge with Python Using ExecuTorch - <a href="https://2025.allthingsopen.org/speakers/david-vonthenen" target="_blank">All Things Open 2025, October 2025</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li> Guardians of AI: Equipping Humans to Detect and Prevent Adversarial Manipulation - <a href="https://technologysummit.net/california.html#agenda" target="_blank">California Technology Summit, October 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -26,11 +42,11 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Sarcastically Speaking: Unlocking Multi-modal Sentiment Analysis with NLP and Facial Expressions - <a href="https://aideveu2025.sched.com/event/25Tvr/technical-workshop-sarcastically-speaking-unlocking-multi-modal-sentiment-analysis-with-nlp-and-facial-expressions-david-vonthenen-digitalocean" target="_blank">AI_dev: Open Source GenAI & ML Summit Europe 2025, August 2025</a></li>
+<li><a href="https://youtu.be/9zxhjWNcCD8" target="_blank"><strong>Technical Workshop:</strong> Sarcastically Speaking: Unlocking Multi-modal Sentiment Analysis With NLP and Facial Expressions</a> - <a href="https://aideveu2025.sched.com/event/25Tvr/technical-workshop-sarcastically-speaking-unlocking-multi-modal-sentiment-analysis-with-nlp-and-facial-expressions-david-vonthenen-digitalocean" target="_blank">AI_dev: Open Source GenAI & ML Summit Europe 2025, August 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - <a href="https://www.wearedevelopers.com/world-congress" target="_blank">WeAreDevelopers World Congeress, July 2025</a></li>
+<li><a href="https://youtu.be/Rr56AAAjJXw" target="_blank">Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity</a> - <a href="https://www.wearedevelopers.com/world-congress" target="_blank">WeAreDevelopers World Congeress, July 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
