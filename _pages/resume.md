@@ -54,7 +54,11 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>     o   Your Kubernetes Playbook at Your Fingertips: Advanced Troubleshooting With MCP, RAG, and K8sgpt - <a href="https://kccncna2025.sched.com/event/27FZ8/your-kubernetes-playbook-at-your-fingertips-advanced-troubleshooting-with-mcp-rag-and-k8sgpt-david-vonthenen-netapp-yash-sharma-digitalocean" target="_blank">KubeCon + Cloud Native Con North America, August 2025</a></p>
+<p>     o   Rethinking RAG: How MCP and Multi-Agents Will Transform the Future of Intelligent Search - <a href="https://devoxx.ma/speaker/?id=2701" target="_blank">Devoxx Morocco, November 2025</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>     o   Your Kubernetes Playbook at Your Fingertips: Advanced Troubleshooting With MCP, RAG, and K8sgpt - <a href="https://kccncna2025.sched.com/event/27FZ8/your-kubernetes-playbook-at-your-fingertips-advanced-troubleshooting-with-mcp-rag-and-k8sgpt-david-vonthenen-netapp-yash-sharma-digitalocean" target="_blank">KubeCon + Cloud Native Con North America, November 2025</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -74,7 +78,7 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>     o   <a href="https://youtu.be/9zxhjWNcCD8" target="_blank">Technical Workshop: Sarcastically Speaking: Unlocking Multi-modal Sentiment Analysis With NLP and Facial Expressions</a> - <a href="https://aideveu2025.sched.com/event/25Tvr/technical-workshop-sarcastically-speaking-unlocking-multi-modal-sentiment-analysis-with-nlp-and-facial-expressions-david-vonthenen-digitalocean" target="_blank">AI_Dev Europe, August 2025</a></p>
+<p>     o   <a href="https://youtu.be/9zxhjWNcCD8" target="_blank"><strong>Technical Workshop:</strong> Sarcastically Speaking: Unlocking Multi-modal Sentiment Analysis With NLP and Facial Expressions</a> - <a href="https://aideveu2025.sched.com/event/25Tvr/technical-workshop-sarcastically-speaking-unlocking-multi-modal-sentiment-analysis-with-nlp-and-facial-expressions-david-vonthenen-digitalocean" target="_blank">AI_Dev Europe, August 2025</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
