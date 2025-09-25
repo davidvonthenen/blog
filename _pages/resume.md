@@ -27,7 +27,10 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Proven technical leader with over a decade of experience in Artificial Intelligence, Machine Learning, cloud-native architectures, and developer advocacy. I excel at creating scalable AI solutions that leverage multi-modal data for innovative applications, from healthcare diagnostics to conversational AI. A highly skilled communicator, I frequently present on topics related to AI and ML at industry events and have a passion for expanding digital footprints and online communities.</p>
+<p>As an AI/ML engineer and developer advocate, I thrive at the intersection of real-world engineering and developer empowerment. My career has been defined by architecting AI systems that don’t just make the “demo reel,” but drive tangible business value from foundational Kubernetes services powering enterprise platforms to multimodal AI models that improve how people communicate with technology.</p>
+<p>I specialize in building, deploying, and explaining complex machine learning solutions at scale. My toolkit spans Python, Go, C++, and cloud-native architectures, but my real strength lies in translating advanced AI concepts into reliable, production-grade systems. At NetApp’s Office of the CTO and previous roles with DigitalOcean and VMware, I’ve delivered customer-facing proof-of-concepts, led open-source initiatives adopted across industries, and helped teams move from lab prototypes to scalable deployments.</p>
+<p>What sets me apart is a relentless focus on impact. I’ve grown business units from hundreds of millions to billions in revenue through innovation in backup, recovery, and cloud-native AI. My advocacy isn’t about pushing buzzwords; it’s about enabling engineers to build what matters, whether that’s through technical content, open-source projects, or speaking at conferences like NVIDIA GTC, Devoxx, WeAreDevelopers, or ODSC.</p>
+<p>If you’re interested in building explainable, auditable, and high-impact AI or if you’re looking for a strategic partner who knows how to bring real AI to market and the community... let’s connect.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -39,17 +42,43 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Senior AI Engineer/Developer Advocate in the Office of the CTO, driving innovation and adoption of AI-driven storage and data management solutions through strategic customer engagement, thought leadership, and technical enablement. Responsibilities include developing customer-facing Proof of Concepts, delivering impactful industry presentations, and fostering community growth around advanced AI/ML initiatives.</p>
+<p>Forward-looking role focused on shaping NetApp’s AI/ML strategy by identifying new opportunities in the rapidly evolving landscape. Lead strategic sessions with executive leadership, design Proof-of-Concepts for emerging products, and define new market entry points for existing offerings. Champion open-source innovation by contributing to and evangelizing projects in the AI/ML ecosystem, ensuring adoption and success across developer communities.</p>
 <!-- /wp:paragraph -->
 
-<p><strong>*</strong> Designed and implemented an open-source Graph-based Retrieval-Augmented Generation (RAG) reference architecture, creating a new revenue stream focused on transparent, auditable AI solutions. Focus on Open Source offering with an upgrade path into a scalable Enterprise solution.</p>
+<p><strong>*</strong>Designed and delivered an open-source Graph-based RAG architecture that integrates with NetApp ONTAP, FlexCache, and SnapMirror to provide scalable short- and long-term AI memory. Reduced hallucinations by grounding responses in explainable knowledge graphs, while enabling transparent governance and creating a clear enterprise upgrade path.</p>
+<p><strong>*</strong>Developed a Document RAG architecture using OpenSearch enriched with domain-specific NER, grounding answers in verifiable documents and metadata. Enhanced explainability and governance by making retrieval paths transparent, reducing hallucinations, and ensuring outputs were auditable and compliant.</p>
+<p><strong>*</strong>Built an AI governance framework centered on data lineage and provenance, treating datasets like code with immutable commits, versioned pipelines, and policy-as-code gates. Enabled reproducibility, auditability, and regulatory compliance by providing provable evidence trails that traced every model decision back to its exact data, code, and environment.</p>
 
 <!-- wp:paragraph -->
 <p><strong>* Conference Presentations:</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>     o   Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity - <a href="https://www.wearedevelopers.com/world-congress" target="_blank">WeAreDevelopers World Congeress, July 2025</a></p>
+<p>     o   Your Kubernetes Playbook at Your Fingertips: Advanced Troubleshooting With MCP, RAG, and K8sgpt - <a href="https://kccncna2025.sched.com/event/27FZ8/your-kubernetes-playbook-at-your-fingertips-advanced-troubleshooting-with-mcp-rag-and-k8sgpt-david-vonthenen-netapp-yash-sharma-digitalocean" target="_blank">KubeCon + Cloud Native Con North America, August 2025</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>     o   Rethinking RAG: How MCP andAgent2Agent Will Transform the Future of Intelligent Search - <a href="https://odsc.ai/speakers-portfolio/rethinking-rag-how-mcp-and-agent2agent-will-transform-the-future-of-intelligent-search/" target="_blank">Open Data Science Conference (ODSC) AI West, October 2025</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>     o   TinyML Meets PyTorch: Deploying AI at the Edge with Python Using ExecuTorch - <a href="https://2025.allthingsopen.org/sessions/tinyml-meets-pytorch-deploying-ai-at-the-edge-with-python-using-executorch" target="_blank">All Things Open, October 2025</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>     o   Guardians of AI: Equipping Humans to Detect and Prevent Adversarial Manipulation - <a href="https://technologysummit.net/california.html#agenda" target="_blank">California Technology Summit, October 2025</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>     o   API Security for the AI Era: Detecting and Preventing Adversarial Manipulation - <a href="https://apiworldcloudxdataweek2025.sched.com/event/24c55/pro-workshop-api-api-security-for-the-ai-era-detecting-and-preventing-adversarial-manipulation" target="_blank">API World, September 2025</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>     o   <a href="https://youtu.be/9zxhjWNcCD8" target="_blank">Technical Workshop: Sarcastically Speaking: Unlocking Multi-modal Sentiment Analysis With NLP and Facial Expressions</a> - <a href="https://aideveu2025.sched.com/event/25Tvr/technical-workshop-sarcastically-speaking-unlocking-multi-modal-sentiment-analysis-with-nlp-and-facial-expressions-david-vonthenen-digitalocean" target="_blank">AI_Dev Europe, August 2025</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>     o   <a href="https://youtu.be/Rr56AAAjJXw" target="_blank">Confuse, Obfuscate, Disrupt: Using Adversarial Techniques for Better AI and True Anonymity</a> - <a href="https://www.wearedevelopers.com/world-congress" target="_blank">WeAreDevelopers World Congeress, July 2025</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -65,7 +94,7 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>     o   The Rise of Agentic AI: Harnessing Open Source for Dynamic Decision-Making - <a href="https://www.devoxx.co.uk/speaker/?id=9501" title="">Devoxx UK 2025</a></p>
+<p>     o   <a href="https://youtu.be/zYFYqXh1UGg" target="_blank">The Rise of Agentic AI: Harnessing Open Source for Dynamic Decision-Making</a> - <a href="https://www.devoxx.co.uk/speaker/?id=9501" title="">Devoxx UK 2025</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -77,7 +106,7 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Leading strategic initiatives to advance cloud platform adoption and drive AI/ML-focused revenue growth through customer-centric solutions and community engagement. This encompasses diverse duties, including building and training AI/ML models for customer Proof-of-Concept projects, presenting sessions and talks at industry conferences, running workshop events in a teaching capacity, being accountable for meeting revenue goals related to AI/ML initiatives, and fostering growth among developers, end-users, and the community.</p>
+<p>Leading strategic initiatives to advance cloud platform adoption and drive AI/ML-focused revenue growth through customer-centric solutions and community engagement. This encompasses diverse duties, including building and training AI/ML models for customer Proof-of-Concept projects, presenting sessions and talks at industry conferences, running workshop events in a teaching capacity, and  accountability for meeting revenue goals related to AI/ML initiatives.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
