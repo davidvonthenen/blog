@@ -27,4 +27,4 @@ Edge AI is quietly changing how we think about machine learning deployment. Inst
 
 What's fueling this movement is necessity. As the world races toward smaller, faster, and more sustainable AI systems, the focus has moved from "how big can we make it" to "how far can we take it." One of the best examples was DeepSeek's efficiency breakthroughs... it's clear that doing more with less is the future of machine learning.
 
-Dive into the full article here: https://bit.ly/4mSCFOl
+Dive into the full article here: [https://bit.ly/4mSCFOl](https://bit.ly/4mSCFOl).
