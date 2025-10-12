@@ -1,19 +1,25 @@
 ---
+ID: 400
 post_title: 'Doing More with Less: The Quiet Revolution Powering AI Through IoT and Edge'
+post_name: >
+  doing-more-with-less-the-quiet-revolution-powering-ai-through-iot-and-edge
+author: David vonThenen
+post_date: 2025-10-12 07:11:09
 layout: post
+link: >
+  https://davidvonthenen.com/2025/10/12/doing-more-with-less-the-quiet-revolution-powering-ai-through-iot-and-edge/
 published: true
-author: david
 tags:
-    - AI
-    - Artificial Intelligence
-    - Conferences
-    - IoT
-    - Machine Learning
-    - ML
-    - PyTorch
+  - AI
+  - Artificial Intelligence
+  - Conferences
+  - IoT
+  - Machine Learning
+  - ML
+  - PyTorch
 categories:
-    - AI/ML
-    - Conferences
+  - AI/ML
+  - Conferences
 ---
 Edge AI is quietly changing how we think about machine learning deployment. Instead of running models in the cloud, intelligence is moving closer to where data is created—on sensors, gateways, and even microcontrollers. This shift isn't about shrinking models for fun; it's about making AI useful where latency, bandwidth, and power all matter. In this piece, we look at how tools like ExecuTorch and TorchScript let you run PyTorch models anywhere... whether that's a GPU rack, a Raspberry Pi, or a factory floor controller and why efficiency is the next big driver of innovation in AI.
 
