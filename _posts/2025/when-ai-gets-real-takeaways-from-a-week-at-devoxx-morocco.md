@@ -1,19 +1,25 @@
 ---
+ID: 411
 post_title: 'When AI Gets Real: Takeaways from a Week at Devoxx Morocco'
+post_name: >
+  when-ai-gets-real-takeaways-from-a-week-at-devoxx-morocco
+author: David vonThenen
+post_date: 2025-11-19 18:21:34
 layout: post
+link: >
+  https://davidvonthenen.com/2025/11/19/when-ai-gets-real-takeaways-from-a-week-at-devoxx-morocco/
 published: true
-author: david
 tags:
-    - AI
-    - Artificial Intelligence
-    - Conferences
-    - Machine Learning
-    - ML
-    - Personal
+  - AI
+  - Artificial Intelligence
+  - Conferences
+  - Machine Learning
+  - ML
+  - Personal
 categories:
-    - Conferences
-    - AI/ML
-    - Personal
+  - AI/ML
+  - Conferences
+  - Personal
 ---
 [Devoxx Morocco](https://devoxx.ma) brought together a mix of engineers, architects, and AI practitioners who were focused on the practical side of AI. The conversations were grounded in real problems rather than vague theory. People wanted to talk through design decisions, past failures, and the parts of their stack that still worry them. That set the tone for the conversations happening at the conference. The setting made it easy to slow down, listen, and think through the patterns that kept showing up.
 
