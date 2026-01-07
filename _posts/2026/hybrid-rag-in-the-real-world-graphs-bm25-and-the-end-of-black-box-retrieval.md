@@ -1,15 +1,21 @@
 ---
-post_title: 'Hybrid RAG in the Real World: Graphs, BM25, and the End of Black-Box Retrieval '
+ID: 418
+post_title: 'Hybrid RAG in the Real World: Graphs, BM25, and the End of Black-Box Retrieval'
+post_name: >
+  hybrid-rag-in-the-real-world-graphs-bm25-and-the-end-of-black-box-retrieval
+author: David vonThenen
+post_date: 2026-01-07 08:15:41
 layout: post
+link: >
+  https://davidvonthenen.com/2026/01/07/hybrid-rag-in-the-real-world-graphs-bm25-and-the-end-of-black-box-retrieval/
 published: true
-author: david
 tags:
-    - AI
-    - Artificial Intelligence
-    - Databases
-    - Storage
+  - AI
+  - Artificial Intelligence
+  - Databases
+  - Storage
 categories:
-    - AI/ML
+  - AI/ML
 ---
 If you've been building RAG systems and something feels off, this post explains why. It picks up where earlier discussions left off and looks at what happens when retrieval stops being something you can inspect or control. The focus is on how teams actually guide AI answers in practice, not by adding more embeddings, but by rethinking retrieval as a first-class part of the system. Along the way, it contrasts vector-heavy approaches with graph-style thinking and introduces the idea of a BM25-based Document RAG Agent as a practical way to regain visibility into how answers are formed.
 
