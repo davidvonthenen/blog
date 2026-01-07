@@ -11,7 +11,7 @@ tags:
 categories:
     - AI/ML
 ---
-If you’ve been building RAG systems and something feels off, this post explains why. It picks up where earlier discussions left off and looks at what happens when retrieval stops being something you can inspect or control. The focus is on how teams actually guide AI answers in practice, not by adding more embeddings, but by rethinking retrieval as a first-class part of the system. Along the way, it contrasts vector-heavy approaches with graph-style thinking and introduces the idea of a BM25-based Document RAG Agent as a practical way to regain visibility into how answers are formed.
+If you've been building RAG systems and something feels off, this post explains why. It picks up where earlier discussions left off and looks at what happens when retrieval stops being something you can inspect or control. The focus is on how teams actually guide AI answers in practice, not by adding more embeddings, but by rethinking retrieval as a first-class part of the system. Along the way, it contrasts vector-heavy approaches with graph-style thinking and introduces the idea of a BM25-based Document RAG Agent as a practical way to regain visibility into how answers are formed.
 
 ![Confidently. Incorrect](https://davidvonthenen.com/wp-content/uploads/2026/01/confidently-incorrect.png)
 
