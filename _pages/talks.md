@@ -18,7 +18,7 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
-<li>TDSC Meetup: MCP and Multi-Agent Reinforcement Learning in Action - <a href="https://www.youtube.com/live/TNGPgioa3B0?si=xLcRYqn--146TyFi" target="_blank">Tbilisi Data Science</a></li>
+<li>TDSC Meetup: MCP and Multi-Agent Reinforcement Learning in Action - <a href="https://www.youtube.com/live/TNGPgioa3B0?si=xLcRYqn--146TyFi" target="_blank">Tbilisi Data Science Meetup</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
