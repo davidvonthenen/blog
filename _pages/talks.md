@@ -18,6 +18,10 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
+<li>TDSC Meetup: MCP and Multi-Agent Reinforcement Learning in Action - <a href="https://www.youtube.com/live/TNGPgioa3B0?si=xLcRYqn--146TyFi" target="_blank">Tbilisi Data Science</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>Rethinking RAG: How MCP and Multi-Agents Will Transform the Future of Intelligent Search - <a href="https://devoxx.ma/speaker/?id=2701" target="_blank">Devoxx Morocco, November 2025</a></li>
 <!-- /wp:list-item -->
 
