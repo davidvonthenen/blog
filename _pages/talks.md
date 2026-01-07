@@ -11,6 +11,37 @@ tags: [ ]
 categories: [ ]
 ---
 <!-- wp:heading -->
+<h2 class="wp-block-heading">2026</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+
+<!-- wp:list-item -->
+<li>Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI - Open Data Science Conference (ODSC) AI East, April 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI - Devoxx Greece, April 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - Devoxx Greece, April 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A Practical Guide to Training a Small Language Model: Tokenizers, Training, and Real-World Pitfalls - Southern California Linux Expo (SCaLE) 23x, March 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - Southern California Linux Expo (SCaLE) 23x, March 2026</li>
+<!-- /wp:list-item -->
+
+</ul>
+<!-- /wp:list -->
+
+
+<!-- wp:heading -->
 <h2 class="wp-block-heading">2025</h2>
 <!-- /wp:heading -->
 
@@ -18,7 +49,7 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
-<li>TDSC Meetup: MCP and Multi-Agent Reinforcement Learning in Action - <a href="https://www.youtube.com/live/TNGPgioa3B0?si=xLcRYqn--146TyFi" target="_blank">Tbilisi Data Science Meetup</a></li>
+<li>TDSC Meetup: MCP and Multi-Agent Reinforcement Learning in Action - <a href="https://www.youtube.com/live/TNGPgioa3B0?si=xLcRYqn--146TyFi" target="_blank">Tbilisi Data Science Meetup, December 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
