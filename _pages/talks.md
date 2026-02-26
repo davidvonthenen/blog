@@ -18,6 +18,14 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
+<li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - WeAreDevelopers World Congress (EU), June 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - <a href="https://bit.ly/4rUQlvD" target="_blank">NDC Copenhagen, June 2026</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI - Open Data Science Conference (ODSC) AI East, April 2026</li>
 <!-- /wp:list-item -->
 
@@ -30,11 +38,19 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
+<li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - <a href="https://bit.ly/49riFPi" target="_blank">Devoxx France, April 2026</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Rethinking RAG: How MCP and Multi-Agents Will Transform the Future of Intelligent Search - Warsar IT Days, March 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>A Practical Guide to Training a Small Language Model: Tokenizers, Training, and Real-World Pitfalls - <a href="https://bit.ly/3LkKjo0" target="_blank">Southern California Linux Expo (SCaLE) 23x, March 2026</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - <a href="https://www.socallinuxexpo.org/scale/23x/presentations/sound-your-secrets-teaching-your-model-spy-so-you-can-learn-defend" target="_blank">Southern California Linux Expo (SCaLE) 23x, March 2026</a></li>
+<li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - <a href="https://bit.ly/4rlTiEP" target="_blank">Southern California Linux Expo (SCaLE) 23x, March 2026</a></li>
 <!-- /wp:list-item -->
 
 </ul>
