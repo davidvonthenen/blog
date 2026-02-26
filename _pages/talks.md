@@ -42,6 +42,10 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
+<li>Rethinking RAG: How MCP and Multi-Agents Will Transform the Future of Intelligent Search - Warsar IT Days, March 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>A Practical Guide to Training a Small Language Model: Tokenizers, Training, and Real-World Pitfalls - <a href="https://bit.ly/3LkKjo0" target="_blank">Southern California Linux Expo (SCaLE) 23x, March 2026</a></li>
 <!-- /wp:list-item -->
 
