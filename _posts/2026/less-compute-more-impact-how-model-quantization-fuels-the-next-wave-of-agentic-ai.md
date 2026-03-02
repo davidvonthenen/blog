@@ -23,4 +23,4 @@ Bigger models used to win headlines. Now they win (in not good ways) with power 
 
 This shift is happening for a reason. GPU costs are rising, data center power demand keeps climbing, and inference is now the line item that finance teams watch closely as token costs rise. NVIDIA's recent inference-focused deal with Groq signals the same trend: latency, efficiency, and cost per token matter more than raw size. If you are building AI systems today, the question is no longer how big your model is. It is how much value it delivers per watt and per dollar.
 
-Dive into the full article on the Open Data Science Conference (DOSC) blog: [https://bit.ly/4s6iKye](https://bit.ly/4s6iKye)
+Dive into the full article on the Open Data Science Conference (ODSC) blog: [https://bit.ly/4s6iKye](https://bit.ly/4s6iKye)
