@@ -1,8 +1,14 @@
 ---
+ID: 428
 post_title: 'Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI'
+post_name: >
+  less-compute-more-impact-how-model-quantization-fuels-the-next-wave-of-agentic-ai
+author: David vonThenen
+post_date: 2026-03-02 07:09:40
 layout: post
+link: >
+  https://davidvonthenen.com/2026/03/02/less-compute-more-impact-how-model-quantization-fuels-the-next-wave-of-agentic-ai/
 published: true
-author: david
 tags:
   - AI
   - Artificial Intelligence
