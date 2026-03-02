@@ -11,10 +11,10 @@ tags:
 categories:
   - AI/ML
 ---
-Bigger models used to win headlines. Now they win power bills. This post looks at what changed after DeepSeek R1 made it clear that smarter engineering can compete with brute force. Instead of chasing parameter counts, we look at quantization, fine-tuning, and specialized Small Language Models that focus on one job and do it well. We also unpack what this means for agentic systems, where multiple focused models collaborate instead of one giant model trying to do everything.
+Bigger models used to win headlines. Now they win (in not good ways) with power bills. This post looks at what changed after DeepSeek R1 made it clear that smarter engineering can compete with brute force. Instead of chasing parameter counts, we look at quantization, fine-tuning, and specialized Small Language Models that focus on one job and do it well. We also unpack what this means for agentic systems, where multiple focused models collaborate instead of one giant model trying to do everything.
 
-![NVIDIA and Groq](https://davidvonthenen.com/wp-content/uploads/2026/02/nvidia-groq.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sqqMjJXDpEI?si=isv72N4N_mhe0xx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This shift is happening for a reason. GPU costs are rising, data center power demand keeps climbing, and inference is now the line item that finance teams watch closely. NVIDIA’s recent inference-focused deal with Groq signals the same trend: latency, efficiency, and cost per token matter more than raw size. If you are building AI systems today, the question is no longer how big your model is. It is how much value it delivers per watt and per dollar.
+This shift is happening for a reason. GPU costs are rising, data center power demand keeps climbing, and inference is now the line item that finance teams watch closely as token costs rise. NVIDIA's recent inference-focused deal with Groq signals the same trend: latency, efficiency, and cost per token matter more than raw size. If you are building AI systems today, the question is no longer how big your model is. It is how much value it delivers per watt and per dollar.
 
-Dive into the full article here: [https://bit.ly/4s6iKye](https://bit.ly/4s6iKye)
+Dive into the full article on the Open Data Science Conference (DOSC) blog: [https://bit.ly/4s6iKye](https://bit.ly/4s6iKye)
