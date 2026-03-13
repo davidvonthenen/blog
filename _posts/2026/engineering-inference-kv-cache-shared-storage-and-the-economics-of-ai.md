@@ -1,8 +1,14 @@
 ---
+ID: 432
 post_title: 'Engineering Inference: KV Cache, Shared Storage, and the Economics of AI'
+post_name: >
+  engineering-inference-kv-cache-shared-storage-and-the-economics-of-ai
+author: David vonThenen
+post_date: 2026-03-13 05:59:42
 layout: post
+link: >
+  https://davidvonthenen.com/2026/03/13/engineering-inference-kv-cache-shared-storage-and-the-economics-of-ai/
 published: true
-author: david
 tags:
   - AI
   - Artificial Intelligence
