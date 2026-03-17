@@ -26,7 +26,11 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI - Open Data Science Conference (ODSC) AI East, April 2026</li>
+<li>Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI - AI DevSummit, May 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI - <a href="https://bit.ly/4rxXeTg" target="_blank">Open Data Science Conference (ODSC) AI East, April 2026</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -42,15 +46,15 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Rethinking RAG: How MCP and Multi-Agents Will Transform the Future of Intelligent Search - Warsar IT Days, March 2026</li>
+<li><b style="color:#0000FF">VIRTUAL</b> Rethinking RAG: How MCP and Multi-Agents Will Transform the Future of Intelligent Search - Warsaw IT Days, March 2026</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>A Practical Guide to Training a Small Language Model: Tokenizers, Training, and Real-World Pitfalls - <a href="https://bit.ly/3LkKjo0" target="_blank">Southern California Linux Expo (SCaLE) 23x, March 2026</a></li>
+<li><b style="color:#FF0000">Recording:</b> <a href="https://youtu.be/9pgHOPAtcvQ?si=pZfaE530pjvM5N2K" target="_blank">A Practical Guide to Training a Small Language Model: Tokenizers, Training, and Real-World Pitfalls</a> - <a href="https://bit.ly/3LkKjo0" target="_blank">Southern California Linux Expo (SCaLE) 23x, March 2026</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - <a href="https://bit.ly/4rlTiEP" target="_blank">Southern California Linux Expo (SCaLE) 23x, March 2026</a></li>
+<li><b style="color:#FF0000">Recording:</b> <a href="https://youtu.be/BqAZ4m7o_eI?si=wsHyey6g--FEIyR9" target="_blank">The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend</a> - <a href="https://bit.ly/4rlTiEP" target="_blank">Southern California Linux Expo (SCaLE) 23x, March 2026</a></li>
 <!-- /wp:list-item -->
 
 </ul>
