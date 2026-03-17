@@ -46,7 +46,7 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><b style="color:#0000FF">VIRTUAL</b> Rethinking RAG: How MCP and Multi-Agents Will Transform the Future of Intelligent Search - Warsaw IT Days, March 2026</li>
+<li><b style="color:#00FF00">VIRTUAL</b> Rethinking RAG: How MCP and Multi-Agents Will Transform the Future of Intelligent Search - Warsaw IT Days, March 2026</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -141,7 +141,7 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><b style="color:#FF0000">Keynote Recording: </b><a href="https://youtu.be/WkQnqkHrzEQ" target="_blank"> The Sound of Innovation: Why Voice Cloning Will Redefine Human-Computer Interaction</a> - <a href="https://developerweek2025.sched.com/event/1tz7d/keynote-digitalocean-the-sound-of-innovation-why-voice-cloning-will-redefine-human-computer-interaction" target="_blank">Developer Week, Feb 2025</a></li>
+<li><b style="color:#0000FF">Keynote</b> <b style="color:#FF0000">Recording:</b> <a href="https://youtu.be/WkQnqkHrzEQ" target="_blank"> The Sound of Innovation: Why Voice Cloning Will Redefine Human-Computer Interaction</a> - <a href="https://developerweek2025.sched.com/event/1tz7d/keynote-digitalocean-the-sound-of-innovation-why-voice-cloning-will-redefine-human-computer-interaction" target="_blank">Developer Week, Feb 2025</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -160,7 +160,7 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><b style="color:#FF0000">Keynote Recording: </b> <a href="https://youtu.be/YgeinCCUBCk?si=m6dhalbBiwbOouJv" target="_blank">Training Machine Learning Classification Models for Creating Real-Time Data Points of Medical Conditions</a>&nbsp;- <a href="https://www.rtc-conference.com/2024/presentation/?hid=313" target="_blank">Real Time Communications Conference &amp; Expo - IEEE International, Oct 2024</a></li>
+<li><b style="color:#FF0000">Keynote</a> <b style="color:#FF0000">Recording:</b> <a href="https://youtu.be/YgeinCCUBCk?si=m6dhalbBiwbOouJv" target="_blank">Training Machine Learning Classification Models for Creating Real-Time Data Points of Medical Conditions</a>&nbsp;- <a href="https://www.rtc-conference.com/2024/presentation/?hid=313" target="_blank">Real Time Communications Conference &amp; Expo - IEEE International, Oct 2024</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
