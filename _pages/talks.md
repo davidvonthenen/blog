@@ -46,7 +46,7 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><b style="color:#00FF00">VIRTUAL</b> Rethinking RAG: How MCP and Multi-Agents Will Transform the Future of Intelligent Search - Warsaw IT Days, March 2026</li>
+<li>Rethinking RAG: How MCP and Multi-Agents Will Transform the Future of Intelligent Search - Warsaw IT Days, March 2026</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -160,7 +160,7 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><b style="color:#FF0000">Keynote</a> <b style="color:#FF0000">Recording:</b> <a href="https://youtu.be/YgeinCCUBCk?si=m6dhalbBiwbOouJv" target="_blank">Training Machine Learning Classification Models for Creating Real-Time Data Points of Medical Conditions</a>&nbsp;- <a href="https://www.rtc-conference.com/2024/presentation/?hid=313" target="_blank">Real Time Communications Conference &amp; Expo - IEEE International, Oct 2024</a></li>
+<li><b style="color:#0000FF">Keynote</b> <b style="color:#FF0000">Recording:</b> <a href="https://youtu.be/YgeinCCUBCk?si=m6dhalbBiwbOouJv" target="_blank">Training Machine Learning Classification Models for Creating Real-Time Data Points of Medical Conditions</a>&nbsp;- <a href="https://www.rtc-conference.com/2024/presentation/?hid=313" target="_blank">Real Time Communications Conference &amp; Expo - IEEE International, Oct 2024</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
