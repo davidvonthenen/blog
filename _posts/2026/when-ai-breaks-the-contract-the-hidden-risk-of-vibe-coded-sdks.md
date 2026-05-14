@@ -10,9 +10,10 @@ link: >
   https://davidvonthenen.com/2026/05/14/when-ai-breaks-the-contract-the-hidden-risk-of-vibe-coded-sdks/
 published: true
 tags:
-  - Test Tag
+  - AI
+  - Artificial Intelligence
 categories:
-  - Test Cat
+  - AI/ML
 ---
 I came across a [Reddit post](https://www.reddit.com/r/ClaudeCode/comments/1tb7edc/inherited_a_3month_old_repo_from_a_vibe_engineer/) the other day where an engineer described inheriting a three-month-old backend repo from an “agentic engineer.” The part that jumped out was not the drama. It was the size of the cleanup. The post mentions [309k lines of code, 240k lines of docs, and 1M+ lines of logs](https://www.reddit.com/r/ClaudeCode/comments/1tb7edc/inherited_a_3month_old_repo_from_a_vibe_engineer/) in Markdown files. Comments on the thread also reference a cleanup of around 3 million lines removed, which is the kind of number that makes your Git diff look like it escaped from a landfill.
 
