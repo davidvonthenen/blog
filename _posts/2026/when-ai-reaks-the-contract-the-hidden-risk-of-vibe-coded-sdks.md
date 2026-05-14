@@ -10,9 +10,9 @@ categories:
 ---
 I came across a [Reddit post](https://www.reddit.com/r/ClaudeCode/comments/1tb7edc/inherited_a_3month_old_repo_from_a_vibe_engineer/) the other day where an engineer described inheriting a three-month-old backend repo from an “agentic engineer.” The part that jumped out was not the drama. It was the size of the cleanup. The post mentions [309k lines of code, 240k lines of docs, and 1M+ lines of logs](https://www.reddit.com/r/ClaudeCode/comments/1tb7edc/inherited_a_3month_old_repo_from_a_vibe_engineer/) in Markdown files. Comments on the thread also reference a cleanup of around 3 million lines removed, which is the kind of number that makes your Git diff look like it escaped from a landfill.
 
-That example stuck with me because I have been seeing the same pattern show up in SDKs and APIs recently. Not always as millions of lines of dead code, but as something worse for developers: broken interfaces. A recent OpenAI Python SDK issue describes a change in v2.34.0 where AsyncOpenAI(api_key="") started raising a missing credentials error, breaking OpenAI-compatible local servers that previously worked with an empty API key. These are not theoretical problems. These are “your app worked yesterday, and now production is holding a tiny funeral” problems.
+That example stuck with me because I have been seeing the same pattern show up in SDKs and APIs recently. Not always as millions of lines of dead code, but as something worse for developers: broken interfaces. A recent OpenAI Python SDK issue describes a change in [v2.34.0 where AsyncOpenAI(api_key="")](https://github.com/openai/openai-python/issues/3224) started raising a missing credentials error, breaking OpenAI-compatible local servers that previously worked with an empty API key. These are not theoretical problems. These are “your app worked yesterday, and now production is holding a tiny funeral” problems.
 
-![AsyncOpenAI Regression](https://davidvonthenen.com/wp-content/uploads/2026/05/openai-asyncopen.png)
+[![AsyncOpenAI Regression](https://davidvonthenen.com/wp-content/uploads/2026/05/openai-asyncopen.png)](https://github.com/openai/openai-python/issues/3224)
 
 This is what happens when AI is allowed to manage API and SDK changes without strong human control. AI coding tools can generate code quickly. They can wire things together. They can even produce useful patches. But non-trivial APIs and SDKs are not only code. They are contracts. They carry user expectations, migration paths, naming conventions, compatibility rules, and all the weird edge cases developers depend on. In this post, we'll look at three reasons why leaning too hard on AI for API and SDK development is a bad idea. Let's start with the first topic… AI is better at adding code than understanding the whole system.
 
@@ -26,7 +26,7 @@ This is one of the core failure modes with AI coding tools. They are good at add
 
 The bigger problem is scope. Agent memory and context windows limit how much of the system these tools can reason about at once. Even when they can scan a repo and apply memory compression, they still struggle to keep the right details active: public interfaces, older behavior, migration paths, and undocumented user dependencies. That matters a lot for SDKs. A method signature, parameter name, default value, return object, environment variable, or REST path may look small inside a diff. But for a user, that small change can break a build, block an upgrade, or force a rewrite.
 
-![Google APIs Python GenAI SDK](https://davidvonthenen.com/wp-content/uploads/2026/05/google-proto.png)
+[![Google APIs Python GenAI SDK](https://davidvonthenen.com/wp-content/uploads/2026/05/google-proto.png)](https://github.com/googleapis/python-genai/issues/2381)
 
 This is where AI-generated changes become dangerous for API and SDK work. The tool may update one section correctly while missing another part of the codebase that depends on the old behavior. It may rename a field because the new version feels more consistent. It may "fix" a constructor, tighten validation, or normalize a response object without realizing that real users rely on the old shape. In normal application code, that might be annoying. In an SDK, that is a contract violation.
 
@@ -41,7 +41,7 @@ So why do we keep seeing obvious compatibility failures? There are really only a
 
 The second case is especially messy. AI has made it easier for more people to produce code, but producing code is not the same as maintaining a public interface. An SDK maintainer is not only shipping features. They are protecting users from unnecessary churn.
 
-![OpenAI BReaking Change](https://davidvonthenen.com/wp-content/uploads/2026/05/openai-breaking-bot.png)
+[![OpenAI BReaking Change](https://davidvonthenen.com/wp-content/uploads/2026/05/openai-breaking-bot.png)](https://github.com/openai/openai-python/issues/2553)
 
 The even scarier part… teams that do understand breaking changes sometimes solve the problem by bumping the major version every few months. Technically, that follows semantic versioning. Practically, it creates a terrible developer experience. A major version bump should signal a meaningful shift, not a recurring tax on users because the project cannot keep its interface stable. If your SDK needs a migration guide every quarter, the problem is not only the code. The problem is product discipline.
 
@@ -51,7 +51,7 @@ This is where human failure matters more than AI failure. AI can propose bad cha
 
 We just looked at the maintainer problem. Now we need to look at the AI problem, because both failures feed each other. Good API and SDK maintainers understand that not all code changes have the same weight. A renamed local variable inside a private helper is not the same as a renamed argument in a public constructor. A new internal validation check is not the same as changing behavior that existing users depend on. Humans, at least the careful ones, understand the blast radius of a change because they understand the people on the other side of it.
 
-![Google Python GenAI](https://davidvonthenen.com/wp-content/uploads/2026/05/google-param-case.png)
+[![Google Python GenAI](https://davidvonthenen.com/wp-content/uploads/2026/05/google-param-case.png)](https://github.com/googleapis/python-genai/issues/1514)
 
 AI does not scale that importance well. It can read a file and suggest a change. It can follow a prompt that says "do not break backward compatibility." But that does not mean it understands compatibility in practice. Backward compatibility lives at many levels: REST URLs, auth behavior, constructor signatures, parameter names, enum values, response fields, exception types, retry behavior, pagination defaults, and even what happens when someone passes an empty string instead of None. To a model, those may look like small cleanup tasks. To users, those are contracts... and contracts are where "small cleanup" ends up as a GitHub issue.
 
@@ -65,4 +65,4 @@ AI coding tools are useful, but they are not magic project maintainers with perf
 - Humans are still responsible for project management, review discipline, and protecting users from churn.
 - AI does not scale importance well. It can treat a changed constructor, a renamed field, a stricter validation rule, or an altered response shape as a normal refactor, even when, to users, it is a broken contract.
 
-I am not saying AI is bad for coding. AI can help generate tests, explore implementations, draft migration code, and speed up boring work. But if you maintain an API or SDK and do not have a strong grasp of the changes your AI coding assistant is proposing, you are not improving the developer experience. You are gambling with it. Once developers feel like every upgrade might break their project, they will start looking for a platform maintained by someone who understands that an SDK is not just code. It is a promise.
+I am not saying AI is bad for coding... and of course the tools and models are getting better everyday. AI can help generate tests, explore implementations, draft migration code, and speed up boring work. But if you maintain an API or SDK and do not have a strong grasp of the changes your AI coding assistant is proposing, you are not improving the developer experience. You are gambling with it. Once developers feel like every upgrade might break their project, they will start looking for a platform maintained by someone who understands that an SDK is not just code. It is a promise.
