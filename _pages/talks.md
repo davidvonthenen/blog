@@ -18,7 +18,27 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
+<li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - Render ATL, August 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Workshop: From Vector Search to Better Understanding: How Hybrid RAG Improves Answers, Not Just Matches - WeAreDevelopers World Congress (EU), June 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - WeAreDevelopers World Congress (EU), June 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A Practical Guide to Training a Small Language Model: Tokenizers, Training, and Real-World Pitfalls - <a href="https://bit.ly/3RIO35d" target="_blank">Devoxx Poland, June 2026</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - <a href="https://bit.ly/4uRRftH" target="_blank">DevBcn, June 2026</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Why Your RAG Agent Is Confidently Wrong: Retrieval Choices That Actually Matter - <a href="https://bit.ly/43pz5Up" target="_blank">Toronto Machine Learning Summit, June 2026</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -26,7 +46,11 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI - AI DevSummit, May 2026</li>
+<li>Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI - <a href="https://bit.ly/4tjwZ3Q" target="_blank">AI DevSummit, May 2026</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Panel: What Scales in Agentic AI: From Hype to Production-Grade Systems - <a href="https://bit.ly/4vAd2ai" target="_blank">AI DevSummit, May 2026</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -34,15 +58,15 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - <a href="https://bit.ly/49riFPi" target="_blank">Devoxx Greece, April 2026</a></li>
+<li><b style="color:#FF0000">Recording:</b> <a href="https://youtu.be/SxKLy682s24?si=VHTKL-nc0OwTN4PQ" target="_blank">The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend</a> - <a href="https://bit.ly/49riFPi" target="_blank">Devoxx Greece, April 2026</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI - <a href="https://bit.ly/4sSLYC8" target="_blank">Devoxx Greece, April 2026</a></li>
+<li><b style="color:#FF0000">Recording:</b> <a href="https://www.youtube.com/watch?v=lCcqhUQjJ6U" target="_blank">Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI</a> - <a href="https://bit.ly/4sSLYC8" target="_blank">Devoxx Greece, April 2026</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - <a href="https://bit.ly/49riFPi" target="_blank">Devoxx France, April 2026</a></li>
+<li>><b style="color:#FF0000">Recording:</b> <a href="https://youtu.be/-RgJ_MvZMv8?si=2PwFBuyZUKKYKK5hThe" target="_blank"> Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend</a> - <a href="https://bit.ly/49riFPi" target="_blank">Devoxx France, April 2026</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
