@@ -15,7 +15,7 @@ categories: [ ]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">AI/ML Engineer | Keynote Speaker | Building Scalable ML Architectures & AI Solutions | Python, Go, C++</p>
+<p class="has-text-align-center">AI/ML Leader | Keynote Speaker | Book in Progress | Agentic AI, Deep Learning, Production AI | OSS Engineer & Developer Advocate | Python, Go, C++</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
