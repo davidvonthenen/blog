@@ -66,7 +66,7 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>><b style="color:#FF0000">Recording:</b> <a href="https://youtu.be/-RgJ_MvZMv8?si=2PwFBuyZUKKYKK5hThe" target="_blank"> Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend</a> - <a href="https://bit.ly/49riFPi" target="_blank">Devoxx France, April 2026</a></li>
+<li><b style="color:#FF0000">Recording:</b> <a href="https://youtu.be/-RgJ_MvZMv8?si=2PwFBuyZUKKYKK5hThe" target="_blank"> Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend</a> - <a href="https://bit.ly/49riFPi" target="_blank">Devoxx France, April 2026</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
