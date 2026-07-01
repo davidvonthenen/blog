@@ -18,6 +18,10 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
+<li>Solving Context Shuffle with OpenSearch: Mitigating Permutation-Induced Hallucinations in Production - OpenSearchCon, Sept 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - Render ATL, August 2026</li>
 <!-- /wp:list-item -->
 
@@ -42,11 +46,11 @@ categories: [ ]
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - <a href="https://bit.ly/4rUQlvD" target="_blank">NDC Copenhagen, June 2026</a></li>
+<li><b style="color:#FF0000">Recording:</b> The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend - <a href="https://bit.ly/4rUQlvD" target="_blank">NDC Copenhagen, June 2026</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI - <a href="https://bit.ly/4tjwZ3Q" target="_blank">AI DevSummit, May 2026</a></li>
+<li><b style="color:#0000FF">Keynote</b> <b style="color:#FF0000">Pre-recorded for Offline:</b> <a href="https://youtu.be/SxKLy682s24?si=VHTKL-nc0OwTN4PQ" target="_blank">Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI</a> - <a href="https://bit.ly/4tjwZ3Q" target="_blank">AI DevSummit, May 2026</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
