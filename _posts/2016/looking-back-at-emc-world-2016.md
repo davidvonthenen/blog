@@ -6,7 +6,7 @@ author: David vonThenen
 post_date: 2016-05-17 10:19:57
 layout: post
 link: >
-  https://dvonthenen.com/2016/05/17/looking-back-at-emc-world-2016/
+  https://davidvonthenen.com/2016/05/17/looking-back-at-emc-world-2016/
 published: true
 tags:
   - Apache Mesos
@@ -24,7 +24,8 @@ tags:
   - Storage
   - Volume Driver
 categories:
-  - 'EMC {code}'
+  - Conferences
+  - Uncategorized
 ---
 <p>Wow! How quickly a week can go by. Like many of you, <a href="http://www.emcworld.com/index.htm">EMC World 2016</a> was my first time in attendance and it also happen to be the first time I have been given the opportunity to be a presenter for a larger audience. I though the experience exceeded my expectations and based on some of the preliminary numbers and feedback that we have been getting on the sessions the <a href="http://emccode.com/">EMC {code}</a> team had presented, a good number of you agree the sessions content and presentations were of value to you. Thanks again for attending the sessions and providing your feedback.</p>
 
