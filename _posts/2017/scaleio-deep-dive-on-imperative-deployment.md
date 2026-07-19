@@ -7,7 +7,7 @@ author: David vonThenen
 post_date: 2017-01-18 08:24:33
 layout: post
 link: >
-  https://dvonthenen.com/2017/01/18/scaleio-deep-dive-on-imperative-deployment/
+  https://davidvonthenen.com/2017/01/18/scaleio-deep-dive-on-imperative-deployment/
 published: true
 tags:
   - Apache Mesos
@@ -17,7 +17,7 @@ tags:
   - ScaleIO Framework
   - Storage
 categories:
-  - Apache Mesos
+  - General
 ---
 <p>By now you probably have read the blog post, <a href="https://blog.codedellemc.com/2017/01/10/scaleio-framework-v03/">ScaleIO Framework v0.3: Deploy This!</a>, where we announced the new version of the ScaleIO Framework. (If you haven't, I would definitely go check it out first.) In that release, a new feature called Imperative Deployment was unveiled which is the first structured method for deploying ScaleIO into your <a href="http://mesos.apache.org/">Apache Mesos</a> cluster. In this blog post, we are going to do a deep dive for that feature and highlight some of the interesting and cool things that Imperative Deployment brings to this release.</p>
 
