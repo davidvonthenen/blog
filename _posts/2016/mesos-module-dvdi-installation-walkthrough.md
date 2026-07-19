@@ -9,7 +9,7 @@ author: David vonThenen
 post_date: 2016-03-08 07:55:57
 layout: post
 link: >
-  https://dvonthenen.com/2016/03/08/mesos-module-dvdi-installation-walkthrough/
+  https://davidvonthenen.com/2016/03/08/mesos-module-dvdi-installation-walkthrough/
 published: true
 tags:
   - Apache Mesos
@@ -19,7 +19,7 @@ tags:
   - mesos-module-dvdi
   - Storage
 categories:
-  - Apache Mesos
+  - General
 ---
 <p>As other people in the <a href="http://emccode.github.io/">EMC {code}</a> team started getting involved with <a href="http://mesos.apache.org/">Apache Mesos</a>, I have been helping by fielding questions and troubleshooting installations of both Mesos and <a href="https://github.com/emccode/mesos-module-dvdi">mesos-module-dvdi</a> so that others can kick the tires and become subject matter experts. It was brought to my attention that a good clean walkthrough of adding external volume/storage support to an existing <strong>production</strong> Mesos cluster might be of value to others which brings us to this blog post. We will cover a couple examples of launching <a href="https://mesosphere.github.io/marathon/">Marathon</a> tasks to make use of our new found capability. Also, we will take a look at functionality that the mesos-module-dvdi brings to the table and talk about what those features mean to you.</p>
 
