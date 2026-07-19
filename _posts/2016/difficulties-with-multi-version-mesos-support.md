@@ -9,18 +9,17 @@ author: David vonThenen
 post_date: 2016-01-19 09:11:42
 layout: post
 link: >
-  https://dvonthenen.com/2016/01/19/difficulties-with-multi-version-mesos-support/
+  https://davidvonthenen.com/2016/01/19/difficulties-with-multi-version-mesos-support/
 published: true
 tags:
   - Apache Mesos
   - C++
   - Code
   - Deep Dive
-  - DLL Hell
   - Mesos
   - Mesosphere
 categories:
-  - Apache Mesos
+  - General
 ---
 <p>I have been working with <a href="http://mesos.apache.org/">Apache Mesos</a> for some time now and after a recent meeting with the <a href="https://mesosphere.com/">Mesosphere</a> team (the company largely driving the roadmap and development effort), I have come to learn that some Mesos users sit on the bleeding edge of releases and others that are sensitive to things like security, change management, and stability are more inclined to be a couple or several versions behind. This practice isn’t anything new, it took <a href="http://www.emc.com/">EMC</a> IT a long time to adopt Windows 7… heck, Windows 10 is out now and we are still sitting at Windows 7. Not saying that is necessarily a bad thing..</p>
 
