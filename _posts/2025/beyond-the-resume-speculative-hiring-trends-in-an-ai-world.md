@@ -16,6 +16,7 @@ tags:
   - Personal
 categories:
   - AI/ML
+  - Career
   - Personal
 ---
 I was recently at a conference where I started chatting with a computer science graduate about job hunting in the world today. We discussed the job market landscape as it exists today and all of the economic influences, disruptive technology (cough, AI, cough), and competition out there.
