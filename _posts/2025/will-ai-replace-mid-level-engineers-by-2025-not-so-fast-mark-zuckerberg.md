@@ -21,6 +21,7 @@ tags:
   - Personal
 categories:
   - AI/ML
+  - Career
   - Personal
 ---
 It's hard to ignore the growing buzz around artificial intelligence (AI) and its potential impact on various industries. Recently, Mark Zuckerberg predicted on Joe Rogan's podcast that AI could replace mid-level engineers by 2025. While it's a compelling narrative, it misses the mark for several reasons. Let's unpack why this prediction is more hype than reality.
