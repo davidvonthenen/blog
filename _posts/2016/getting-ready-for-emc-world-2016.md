@@ -6,7 +6,7 @@ author: David vonThenen
 post_date: 2016-04-19 07:31:31
 layout: post
 link: >
-  https://dvonthenen.com/2016/04/19/getting-ready-for-emc-world-2016/
+  https://davidvonthenen.com/2016/04/19/getting-ready-for-emc-world-2016/
 published: true
 tags:
   - Apache Mesos
@@ -21,7 +21,7 @@ tags:
   - Mesosphere
   - Personal
 categories:
-  - 'EMC {code}'
+  - Conferences
 ---
 <p>We are getting closer and closer to <a href="http://www.emcworld.com">EMC World 2016</a>. I have to admit, its approaching crazy fast. This will be my first time attending EMC World. Seems odd saying that as I have attended many conferences in my career, but never the one my company throws. This time its going to be a different conference going experience as I will be presenting two sessions in the "Code and Modern Operations" track this year. I am very excited for this opportunity to talk about things that are interesting to me and I hope that are of interest to others out there in the open source community.</p>
 
