@@ -15,6 +15,7 @@ tags:
   - Personal
 categories:
   - AI/ML
+  - Career
   - Personal
 ---
 AI isn't just coming... It's already here, and it's reshaping how we think about jobs. But the big question isn't about which jobs AI will take; it's about what new types of jobs humans will step into. We are transitioning from a knowledge-based economy to one driven by critical thinking and creative problem-solving. Soon, accessing PhD-level knowledge will be as simple as prompting an AI agent. The real skill will lie in knowing what questions to ask, how to ask them via a prompt, and how to guide AI to produce meaningful results.
