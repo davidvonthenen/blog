@@ -9,7 +9,7 @@ author: David vonThenen
 post_date: 2016-02-16 09:25:41
 layout: post
 link: >
-  https://dvonthenen.com/2016/02/16/enabling-external-storage-on-mesos-frameworks/
+  https://davidvonthenen.com/2016/02/16/enabling-external-storage-on-mesos-frameworks/
 published: true
 tags:
   - Apache Mesos
@@ -26,7 +26,7 @@ tags:
   - Storage
   - Volume Driver
 categories:
-  - Apache Mesos
+  - General
 ---
 <p>There has been a huge push to take containers to the next level by twisting them to do much more. So much more in fact that many are starting to use them in ways that were never originally intended and even going against the founding principles of containers. The most noteworthy principle of containers being left on the designing room floor is without a doubt is being "stateless". It is pretty evident that this trend is only accelerating... just doing a simple search of popular traditional databases in <a href="https://hub.docker.com/">Docker Hub</a> yields results like <a href="https://hub.docker.com/_/mysql/">MySQL</a>, <a href="https://hub.docker.com/_/mariadb/">MariaDB</a>, <a href="https://hub.docker.com/_/postgres/">Postgres</a>, and <a href="https://hub.docker.com/_/oraclelinux/">OracleLinux</a> in Docker Hub (Oracle suggests you might try running an Oracle instance in a Docker container. LAF!). Then there is all the NoSQL implementations like <a href="https://hub.docker.com/_/elasticsearch/">Elastic Search</a>, <a href="https://hub.docker.com/_/cassandra/">Cassandra</a>, <a href="https://hub.docker.com/_/mongo/">MongoDB</a>, and <a href="https://hub.docker.com/_/couchbase/">CouchBase</a> just to name a few. We are going to take a look to see how we can bring these workloads into the next evolution of stateful containers using the Mesos Elastic Search Framework as a proposed model.</p>
 
