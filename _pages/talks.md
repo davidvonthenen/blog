@@ -18,7 +18,19 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
+<li>Cognitive Memory Architectures: Designing Continuity into Long-Running RAG and Agentic Soluitions - Oopen Data Science Conference (ODSC) AI West, Oct 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>KV Cache Is Not About Speed: It's About Surviving Inference Costs - WeAreDevelopers NA 2026, Sept 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>Solving Context Shuffle with OpenSearch: Mitigating Permutation-Induced Hallucinations in Production - OpenSearchCon, Sept 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Vertical APIs for Agentic AI: Routing the Right Context to the Right Expert - API World, Sept 2026</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
