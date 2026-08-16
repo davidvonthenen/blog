@@ -18,7 +18,19 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
-<li>Cognitive Memory Architectures: Designing Continuity into Long-Running RAG and Agentic Soluitions - Oopen Data Science Conference (ODSC) AI West, Oct 2026</li>
+<li>Following the Evidence with HolmesGPT: Troubleshooting Kubernetes Apps and Underlying Infrastructure - KubeCon NA, Nov 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Why Your RAG Agent Is Confidently Wrong: Retrieval Choices That Actually Matter - Devoxx Morocco, Nov 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Cognitive Memory Architectures: Designing Continuity into Long-Running RAG and Agentic Soluitions - Open Data Science Conference (ODSC) AI West, Oct 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Underneath the Black Marker: AI Techniques for Detecting and Reversing Redactions - Antwerpen, Belgium, Oct 2026</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
