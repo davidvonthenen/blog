@@ -1,7 +1,7 @@
 ---
 ID: 459
 post_title: >
-  Why Owning Your AI Infrastructure Is
+  Why Owning Your AI Model Infrastructure Is
   Important
 post_name: >
   why-owning-your-ai-infrastructure-is-important
