@@ -1,17 +1,25 @@
 ---
-post_title: 'Why Owning Your AI Infrastructure Is Important'
+ID: 459
+post_title: >
+  Why Owning Your AI Infrastructure Is
+  Important
+post_name: >
+  why-owning-your-ai-infrastructure-is-important
+author: David vonThenen
+post_date: 2026-08-26 07:03:47
 layout: post
+link: >
+  https://davidvonthenen.com/2026/08/26/why-owning-your-ai-infrastructure-is-important/
 published: true
-author: david
 tags:
-    - AI
-    - Artificial Intelligence
-    - Conferences
-    - Machine Learning
-    - ML
+  - AI
+  - Artificial Intelligence
+  - Conferences
+  - Machine Learning
+  - ML
 categories:
-    - AI/ML
-    - Conferences
+  - AI/ML
+  - Conferences
 ---
 I attended a session at [RenderATL](https://www.renderatl.com) this week titled "From Demo to Production: The Infrastructure Gap (and Why You Must Own the Stack)" by [Nolan Code](https://www.linkedin.com/in/nolan-s-code-mba/). Nolan is from the [Atlanta AI & Robotics Initiative](https://www.linkedin.com/company/atlanta-ai-robotics-initiative/)... I honestly didn't know anything about the organization since I am not from the area, but they seem to be doing a lot of amazing things! The session was interesting and focused primarily on Physical AI... Think robotics, like self-driving cars and automation (as in industrial or factory). He said Physical AI will be among one of the fastest-growing segments of AI along with Agentic AI; I completely agree with his assessment and have been saying this for some time.
 
