@@ -1,7 +1,8 @@
 ---
 ID: 459
 post_title: >
-  Why Owning Your LLM and ML Model Infrastructure Is Important
+  Why Owning Your LLM and ML Model
+  Infrastructure Is Important
 post_name: >
   why-owning-your-ai-infrastructure-is-important
 author: David vonThenen
