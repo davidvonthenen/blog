@@ -1,5 +1,5 @@
 ---
-post_title: 'Why Owning Your AI Infrastructure Is Important'
+post_title: 'Why Owning Your AI Model Infrastructure Is Important'
 layout: post
 published: true
 author: david
