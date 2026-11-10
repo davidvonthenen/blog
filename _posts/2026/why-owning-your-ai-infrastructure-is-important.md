@@ -1,17 +1,25 @@
 ---
-post_title: 'Why Owning Your AI Model Infrastructure Is Important'
+ID: 459
+post_title: >
+  Why Owning Your LLM and ML Model
+  Infrastructure Is Important
+post_name: >
+  why-owning-your-ai-infrastructure-is-important
+author: David vonThenen
+post_date: 2026-08-26 07:03:47
 layout: post
+link: >
+  https://davidvonthenen.com/2026/08/26/why-owning-your-ai-infrastructure-is-important/
 published: true
-author: david
 tags:
-    - AI
-    - Artificial Intelligence
-    - Conferences
-    - Machine Learning
-    - ML
+  - AI
+  - Artificial Intelligence
+  - Conferences
+  - Machine Learning
+  - ML
 categories:
-    - AI/ML
-    - Conferences
+  - AI/ML
+  - Conferences
 ---
 I attended a session at [RenderATL](https://www.renderatl.com) this week titled "From Demo to Production: The Infrastructure Gap (and Why You Must Own the Stack)" by [Nolan Code](https://www.linkedin.com/in/nolan-s-code-mba/). Nolan is from the [Atlanta AI & Robotics Initiative](https://www.linkedin.com/company/atlanta-ai-robotics-initiative/)... I honestly didn't know anything about the organization since I am not from the area, but they seem to be doing a lot of amazing things! The session was interesting and focused primarily on Physical AI... Think robotics, like self-driving cars and automation (as in industrial or factory). He said Physical AI will be among one of the fastest-growing segments of AI along with Agentic AI; I completely agree with his assessment and have been saying this for some time.
 
@@ -35,11 +43,11 @@ That's some tinfoil hat stuff, but with all the "urgency" from these AI provider
 
 ![Amazon Basics and 3rd Party Sellers](https://davidvonthenen.com/wp-content/uploads/2026/08/amazon-third-party-data.png)
 
-We know Amazon already uses its retail business to monitor which products do well, and for those that do, it goes to a Chinese dropship company to source those products. This is EXACTLY their operating model for Amazon Basics. This has been happening for some time now. Check out [this article](https://www.reuters.com/article/amp/idUSKBN23J2Z9/), or [this one](https://www.businessinsider.com/amazon-copied-third-party-sellers-competitors-india-reuters-report-2021-10), or watch [this video](https://www.youtube.com/watch?v=l2p3fZyV254). Amazon is basically doing this with cables and backpacks... the small shit. Why not for the big shit?
+We know Amazon already uses its retail business to monitor which products do well, and for those that do, it goes to a Chinese dropship company to source those products. This is EXACTLY their operating model for Amazon Basics. This has been happening for some time now. Check out [this article](https://www.reuters.com/article/amp/idUSKBN23J2Z9/), or [this one](https://www.businessinsider.com/amazon-copied-third-party-sellers-competitors-india-reuters-report-2021-10), or watch [this video](https://www.youtube.com/watch?v=l2p3fZyV254). Amazon is basically doing this with cables and backpacks... the small shit. Why not for the big shit? Like your personal data, your company's data, or model your business (let that last on sink in).
 
 ![Google Lawsuit with Incognito Mode on Chrome](https://davidvonthenen.com/wp-content/uploads/2026/08/google-incognito-lawsuit.png)
 
-Google doesn't let you opt out of using your personal information and data (think Gmail, Docs, etc.) unless you turn off all history and memory features. Even then, I would bet that they still do it, but use the legal loophole of anonymizing YOU while still using all the intelligence from the behaviors and patterns. Google effectively did this already with Chrome and incognito mode. Check out [this article](https://www.theguardian.com/technology/2024/apr/01/google-destroying-browsing-data-privacy-lawsuit) describing the payout from the lawsuit or [this video](https://www.youtube.com/watch?v=i9db1l9BcUk) if you aren't familiar with what happened.
+Google doesn't let you opt out of using your personal information and data (think Gmail, Docs, etc.) for Gemini unless you turn off all history and memory features. Even then, I would bet that they still do it, but use the legal loophole of anonymizing YOU while still using all the intelligence from the behaviors and patterns. Google effectively did this already with Chrome and incognito mode. Check out [this article](https://www.theguardian.com/technology/2024/apr/01/google-destroying-browsing-data-privacy-lawsuit) describing the payout from the lawsuit or [this video](https://www.youtube.com/watch?v=i9db1l9BcUk) if you aren't familiar with what happened.
 
 Why not do this in AI/ML in the middle of this AI arms race?
 
