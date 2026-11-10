@@ -18,10 +18,6 @@ categories: [ ]
 <ul class="wp-block-list">
 
 <!-- wp:list-item -->
-<li>Following the Evidence with HolmesGPT: Troubleshooting Kubernetes Apps and Underlying Infrastructure - KubeCon NA, Nov 2026</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
 <li>Why Your RAG Agent Is Confidently Wrong: Retrieval Choices That Actually Matter - Devoxx Morocco, Nov 2026</li>
 <!-- /wp:list-item -->
 
